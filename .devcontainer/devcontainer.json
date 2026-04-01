@@ -1,0 +1,19 @@
+{
+    "name": "Rust Development",
+    "image": "mcr.microsoft.com/devcontainers/rust:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rust-lang.rust-analyzer",
+                "tamasfe.even-better-toml",
+                "vadimcn.vscode-lldb"                
+            ]
+        }
+    },
+    "postCreateCommand": "rustup component add clippy rustfmt && ./.devcontainer/setup.sh",
+    "features": {
+        "ghcr.io/devcontainers/features/rust:1": {},
+        // "ghcr.io/devcontainers/features/node:1": { }
+        // "ghcr.io/dhoeric/features/google-cloud-cli": {}
+    }
+}    

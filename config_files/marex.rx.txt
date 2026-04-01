@@ -1,0 +1,5 @@
+bid=\*\*([0-9]+\.[0-9]+)\*\*DENARO
+ask=\*\*([0-9]+\.[0-9]+)\*\*LETTERA
+isin=Path.0
+dt=Path.1
+issuer=Path.2

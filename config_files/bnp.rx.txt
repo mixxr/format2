@@ -1,0 +1,5 @@
+bid=Vendi \*\*€ ([0-9]+,[0-9]+)\*\*
+ask=Compra \*\*€ ([0-9]+,[0-9]+)\*\*
+isin=Path.0
+dt=Path.1
+issuer=Path.2

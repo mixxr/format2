@@ -1,0 +1,4 @@
+/target
+/output_files
+*.log
+*test.json
