@@ -119,7 +119,14 @@ fn extract_value_from_path(filepath: &str, position: usize) -> String {
     if position >= parts.len() {
         return "".to_string();
     }
-    parts[parts.len() - position - 1].to_string()
+    let mut value = parts[parts.len() - position - 1].to_string();
+    // if position is 0 (ISIN) then remove file extension if any
+    if position == 0 {
+        if let Some(dot_pos) = value.find('.') {
+            value = value[..dot_pos].to_string();
+        }
+    }
+    value
 }
 
 fn read_file_content(path: &str, max_len: usize) -> String {
