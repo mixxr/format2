@@ -3,6 +3,7 @@ use std::io::{self};
 
 use std::fs::File;
 use std::io::BufReader;
+use std::io::SeekFrom;
 use std::io::prelude::*;
 use std::time::{Instant};
 
@@ -104,7 +105,9 @@ contents = contents[..end_value];
 
 fn extract_value_from_regex(content_str: &str, pattern: &str) -> String {
     let rx = regex::Regex::new(&pattern).unwrap();
+    log::debug!("Regex pattern: {:?}", rx);
     let Some(caps) = rx.captures(&content_str) else { return "".to_string()};
+    log::debug!("Regex pattern: {}, Captures: {:?}, Caps len: {}", pattern, caps, caps.len());
     caps[1].to_string()
     // let rx_bid = regex::Regex::new(r"\*\*([0-9]+\.[0-9]+)\*\*LETTERA").unwrap();
     // let Some(caps_bid) = rx_bid.captures(&content_str) else { return };
@@ -129,11 +132,14 @@ fn extract_value_from_path(filepath: &str, position: usize) -> String {
     value
 }
 
-fn read_file_content(path: &str, max_len: usize) -> String {
+fn read_file_content(path: &str, max_len: usize, seek_first: usize) -> String {
     let f = File::open(path).expect("Can't find file!");
     let mut reader = BufReader::new(f);
 
-    // Read first 100 bytes
+    // TODO: seek to skip first bytes (as per parameter, default is 0)
+    reader.seek(SeekFrom::Start(seek_first as u64)).unwrap();
+
+    // Read first n bytes
     let mut buffer = vec![0; max_len];
     let bytes_read = reader.read(&mut buffer).unwrap();
 
@@ -179,7 +185,7 @@ fn main() -> std::process::ExitCode {
     
     env_logger::init();
 
-    log::debug!("Configuration: {:?}, Log Level: {}", args, std::env::var("RUST_LOG").unwrap_or("ERROR".to_string()));
+    println!("Configuration: {:?}, Log Level: {}", args, std::env::var("RUST_LOG").unwrap_or("ERROR".to_string()));
 
     // check if input dir does not exist then exit with error
     if !std::path::Path::new(&args.input_dir).exists() {
@@ -215,6 +221,7 @@ fn main() -> std::process::ExitCode {
     match read_kv_file(&args.config) {
         Ok(map) => {
             log::debug!("Fields to extract: {} ", map.len());
+            let skip_first = args.skip_first.parse::<usize>().unwrap_or(1000);
             let max_len = args.max_len.parse::<usize>().unwrap_or(5000);
             // for each file in the input dir, extract the fields and print them
             for entry in std::fs::read_dir(&args.input_dir).unwrap() {
@@ -222,7 +229,7 @@ fn main() -> std::process::ExitCode {
                 let path = entry.path();
                 if path.is_file() {
                     log::info!("Processing {}", path.display());
-                    let content_str = read_file_content(path.to_str().unwrap(), max_len);
+                    let content_str = read_file_content(path.to_str().unwrap(), max_len, skip_first);
                     let mut fields: HashMap<String, String> = HashMap::new();
                     for (key, value) in &map {
                         log::debug!("Extracting {} => {}", key, value);

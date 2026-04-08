@@ -1,3 +1,4 @@
 cargo run -- --config config_files\bnp.rx.txt --input-dir input_files\bnp\2026-03-27-16-00-00 --output-dir output_files\
+cargo run -- --config config_files\vontobel.rx.txt --input-dir input_files\vontobel.md --output-dir output_files\ -l 1350000
 
 git push --atomic origin <branch name> <tag>

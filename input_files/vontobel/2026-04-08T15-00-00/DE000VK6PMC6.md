@@ -1,0 +1,3411 @@
+[Multi Cash Collect con Barriera](https://markets.vontobel.com/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera)
+
+### ENI SpA, Intesa Sanpaolo SpA, Nexi SpA, STMicroelectronics NV
+
+Cedola potenziale p.a.: 13,44% Autocallable Memoria Scadenza: 11/06/2027 Osservazione della Barriera a Scadenza ISIN DE000VK6PMC6 Simbolo F71690
+
+##
+
+EUR Vendi Volume Denaro
+
+##
+
+EUR Compra Volume Lettera
+
+Spread
+
+
+### Panoramica del prodotto
+
+
+### Dati Chiave
+
+Scopri di più
+
+Importo Bonus per intervallo
+
+11,20 EUR
+
+Frequenza cedolare (in mesi)
+
+1
+
+Prossimo Pagamento dell'Importo Bonus
+
+11,20 EUR (20/04/2026)
+
+Prossima Ex-Date
+
+15/04/2026
+
+ENI SpA
+
+Soglia Bonus
+
+8,168 EUR (13/04/2026)
+
+Livello Autocall
+
+12,661 EUR (13/04/2026)
+
+Strike
+
+13,614 EUR
+
+Barriera
+
+8,168 EUR (60,00%)
+
+Distanza da Barriera
+
+64,21%
+
+Multiplo
+
+73,4538
+
+Intesa Sanpaolo SpA
+
+Soglia Bonus
+
+2,9438 EUR (13/04/2026)
+
+Livello Autocall
+
+4,5629 EUR (13/04/2026)
+
+Strike
+
+4,9063 EUR
+
+Barriera
+
+2,9438 EUR (60,00%)
+
+Distanza da Barriera
+
+48,61%
+
+Multiplo
+
+203,81958
+
+Nexi SpA Worst-Of
+
+Soglia Bonus
+
+3,118 EUR (13/04/2026)
+
+Livello Autocall
+
+4,832 EUR (13/04/2026)
+
+Strike
+
+5,196 EUR
+
+Barriera
+
+3,118 EUR (60,00%)
+
+Distanza da Barriera
+
+7,75%
+
+Multiplo
+
+192,45574
+
+STMicroelectronics NV
+
+Soglia Bonus
+
+15,81 EUR (13/04/2026)
+
+Livello Autocall
+
+24,506 EUR (13/04/2026)
+
+Strike
+
+26,35 EUR
+
+Barriera
+
+15,81 EUR (60,00%)
+
+Distanza da Barriera
+
+51,02%
+
+Multiplo
+
+37,95066
+
+
+### Ciclo di vita
+
+
+- 11/06/2025Fixing Iniziale
+- 13/06/2025Primo Giorno di Negoziazione
+- 08/04/2026Oggi
+- 08/06/2027Ultimo Giorno di Negoziazione
+- 11/06/2027Data di Scadenza
+- 18/06/2027Data di Liquidazione
+
+
+### Informazioni sul Prodotto
+
+
+#### Documenti
+
+[Documenti legali](https://markets.vontobel.com/it-it/informazioni-legali)
+
+#### Su questo Prodotto
+
+
+I Certificati Cash Collect Express sono un tipo di prodotto finanziario strutturato che unisce elementi di investimenti tradizionali, come azioni o obbligazioni, a derivati strutturati e appartengono alla categoria ACEPI dei “Certificati a Capitale Condizionatamente Protetto”. Sono progettati per offrire agli investitori l'opportunità di ottenere rendimenti potenziali tramite Importi Bonus periodici fornendo allo stesso tempo protezione condizionata del capitale o caratteristiche che gli investimenti tradizionali potrebbero non offrire.
+
+[Scopri di più sui Multi Cash Collect con Barriera](https://markets.vontobel.com/it-it/formazione/22126/certificati-cash-collect)
+
+### Avvisi
+
+## Structured Data
+
+```json
+[
+  {
+    "_nextI18Next": {
+      "initialI18nStore": {
+        "it-it": {
+          "common": {
+            "articledetail.disclaimerriskstitle": "Rischi",
+            "articledetail.legalinformationlinktext": "Avviso Importante",
+            "articleoverview.latestarticles": "Tutti gli Articoli",
+            "authordetail.modaltitle": "Informazioni sull'autore",
+            "block.ourPartners.heading": "Our Partners",
+            "common.action": "Tipologia",
+            "common.advertisement": "Pubblicità",
+            "common.all": "Tutto",
+            "common.allStructuredProducts": "Tutti i Prodotti Strutturati",
+            "common.alternativecurrency": "Valuta Alternativa",
+            "common.alternativecurrencyabbreviated": "Val. Alternativa",
+            "common.amount": "Importo",
+            "common.apply": "Applica",
+            "common.ask": "Let.",
+            "common.assetClassPlaceholder": "Selezionare Attività finanziarie",
+            "common.assetclass_other": "Attività finanziarie",
+            "common.back": "Indietro",
+            "common.backtohome": "Torna alla home",
+            "common.barrier": "Barriera",
+            "common.barrierdistance": "Distanza dalla Barriera",
+            "common.barrierhit": "Barriera toccata",
+            "common.barrierobservation": "Barrier Observation",
+            "common.bid": "Den.",
+            "common.bonus": "Bonus",
+            "common.bonusamount": "Importo Bonus",
+            "common.bonuslevel": "Soglia Bonus",
+            "common.bonusyield": "Rendimento Bonus",
+            "common.callinterval": "Frequenza cedola",
+            "common.calllevel": "Livello Autocall",
+            "common.cancel": "Cancella",
+            "common.cap": "Cap",
+            "common.capitalprotection": "Capital Protection",
+            "common.clear": "Rimuovi",
+            "common.clearall": "Rimuovi tutto ",
+            "common.close": "Chiudi",
+            "common.closeAction": "Chiudi",
+            "common.contactUs": "Contattaci",
+            "common.containing": "Contenente",
+            "common.content": "Contenuti",
+            "common.copiedtoclipboard": "Copiato negli appunti",
+            "common.copyToClipboard": "Copy to clipboard",
+            "common.country": "Paese",
+            "common.coupon": "Importo Bonus",
+            "common.couponperannum": "Cedola p.a.",
+            "common.couponperannumpotential": "Cedola potenziale p.a.",
+            "common.coupontype": "Tipologia di Cedola",
+            "common.createAccount": "Crea il tuo account",
+            "common.currency": "Valuta",
+            "common.currentpriceindicative": "Prezzo (indicativo)",
+            "common.dailytrend": "Performance Giornaliera",
+            "common.date": "Data",
+            "common.dateadded": "Date added",
+            "common.delete": "Elimina",
+            "common.delta": "Delta",
+            "common.direction": "Direzione",
+            "common.discount": "Discount",
+            "common.distancetobarrier": "Distanza da Barriera",
+            "common.distancetobarrier.worstof": "Worst-Of: Basato sul sottostante con la peggior performance dall'emissione",
+            "common.disttobarrier": "Dist. da Barriera",
+            "common.disttoknockout": "Dist. da Knock-out",
+            "common.disttostoploss": "Dist. da Stop-loss",
+            "common.disttostrike": "Dist. Da Strike",
+            "common.download": "Download",
+            "common.downloadPdf": "Scarica PDF",
+            "common.edit": "Modifica",
+            "common.features": "Caratteristiche",
+            "common.filter.max": "Max.",
+            "common.filter.min": "Min.",
+            "common.filteredby": "Filtrati per ",
+            "common.financinglevel": "Financing Level",
+            "common.floor": "Floor",
+            "common.frequency": "Frequenza",
+            "common.frequentlyAskedQuestions": "Domande frequenti",
+            "common.from": "Da",
+            "common.industry_other": "Settori",
+            "common.investmentcurrency": "Valuta di Investimento",
+            "common.investmentcurrencyabbreviated": "Val. di investimento",
+            "common.isin": "ISIN",
+            "common.keyfigure": "Dati Chiave ",
+            "common.knockout": "Strike/Knock-out",
+            "common.knockoutlevel": "Livello Knock-out",
+            "common.language": "Lingua",
+            "common.lastupdate": "Ultimo Aggiornamento",
+            "common.latest": "Ultime",
+            "common.leverage": "Leva",
+            "common.loadmore": "Carica di più",
+            "common.lowerbarrier": "Lower Barrier",
+            "common.maturity": "Scadenza",
+            "common.max": "Max",
+            "common.maxibonusamount": "Maxi Cedola",
+            "common.maxreturn": "Rendimento max.",
+            "common.maxreturnpa": "Yield Max p.a.",
+            "common.menu": "Menu",
+            "common.minutesread": "Minuti di lettura",
+            "common.moreinfo": "Più Informazioni",
+            "common.myPortfolio": "Il mio portafoglio",
+            "common.myWatchlist": "La mia Watchlist",
+            "common.name": "Nome",
+            "common.next": "Successivo",
+            "common.no": "No",
+            "common.noitemfoundlong": "Spiacenti, non siamo riusciti a trovare alcun {0} per",
+            "common.noitemfoundshort": "Nessun risultato per {0}",
+            "common.of": "di {0}",
+            "common.ok": "OK",
+            "common.omega": "Omega",
+            "common.or": "o",
+            "common.pa": "{value} p.a.",
+            "common.participation": "Partecipazione",
+            "common.pdfDocument": "Documento PDF",
+            "common.performance": "Performance ",
+            "common.perinterval": "Per Intervallo",
+            "common.period": "Periodo di tempo",
+            "common.playVideo": "Play video",
+            "common.portfolio": "Portafoglio",
+            "common.previous": "Precedente",
+            "common.price": "Prezzo",
+            "common.pricefactor": "In quotazione",
+            "common.print": "Print",
+            "common.productDetails": "Dettagli prodotto",
+            "common.productssuffix": "Prodotti",
+            "common.producttype": "Tipologia di Prodotto",
+            "common.ratio": "Multiplo",
+            "common.readmore": "Leggi di più",
+            "common.refprice": "Prezzo di Riferimento",
+            "common.relatedProducts": "Prodotti Correlati",
+            "common.savePreferences": "Salva le preferenze",
+            "common.savesettings": "Save Settings",
+            "common.search": "Ricerca",
+            "common.searchQuestions": "Cerca domande",
+            "common.searcharticlesandvideos": "Cerca articoli e video",
+            "common.searchresults": "Risultati della ricerca",
+            "common.seealleducationarticles": "Vedi tutti gli Articoli di Formazione",
+            "common.select": "Seleziona",
+            "common.selectOneOption": "Selezionare un'opzione",
+            "common.selectPortfolio": "Seleziona portafoglio",
+            "common.showall": "Mostra tutto",
+            "common.showless": "Mostra meno",
+            "common.signUpButton": "Registrati gratuitamente",
+            "common.skipToContent": "Skip to content",
+            "common.sortOrder": "Criterio di ordina,mento",
+            "common.sortOrderNumber": "Criterio {number}",
+            "common.spread": "Spread",
+            "common.stoploss": "Stop-loss",
+            "common.strike": "Strike",
+            "common.strikecap": "Strike (Cap)",
+            "common.strikeconstantleveragecertificate": "Valuation Price",
+            "common.strikelevel": "Strike",
+            "common.strikeprice": "Prezzo Strike",
+            "common.structuredproducts": "Prodotti Strutturati",
+            "common.subscriptionclosure": "Subscription closure",
+            "common.tags": "Tag",
+            "common.to": "A",
+            "common.today": "Oggi",
+            "common.trending": "Di tendenza",
+            "common.type": "Tipologia",
+            "common.underlying": "Sottostante",
+            "common.underlyingDetails": "Dettagli del Sottostante",
+            "common.underlying_other": "Sottostanti",
+            "common.upperbarrier": "Upper Barrier",
+            "common.viewProduct": "Vedi prodotto",
+            "common.viewall": "Visualizza tutto",
+            "common.year": "Anno",
+            "common.yes": "Si",
+            "countryselection.availablelanguage": "Lingua disponibile",
+            "countryselection.confirmchangecountry": "Conferma",
+            "countryselection.selectCountry": "Seleziona il paese",
+            "countryselection.selectCountryInfoText": "Prodotti e servizi possono variare da paese a paese",
+            "countryselection.selectlanguage": "Seleziona la lingua",
+            "disclaimer.acceptconditionsandcookiepreferences": "Accetta le Condizioni e le Preferenze sui Cookie",
+            "disclaimer.acceptconditionsandcookies": "Accetta le Condizioni e i Cookie",
+            "disclaimer.acceptconditionsandnotcookies": "Accetta le Condizioni e rifiuta i Cookie",
+            "disclaimer.analyticscookies": "Analisi",
+            "disclaimer.cookiepolicy": "Informativa sui Cookie",
+            "disclaimer.cookiesettings": "Impostazioni sui Cookie",
+            "disclaimer.functionalcookies": "Funzionali",
+            "disclaimer.marketingcookies": "Marketing",
+            "disclaimer.performancetrackingcookies": "Personalizzazione",
+            "disclaimer.privacyandcookies": "Privacy and Cookies",
+            "disclaimer.privacysettings": "Preferenze sulla privacy",
+            "disclaimer.termsandconditions": "Termini e Condizioni",
+            "error.error404heading": "Manca qualcosa.",
+            "error.error404subtitle": "Spiacenti, non abbiamo trovato quello che cercavi.",
+            "error.error500heading": "Spaicenti, errore imprevisto",
+            "error.error500subtitle": "Si prega di riprovare più tardi, stiamo lavorando per risolvere il problema.",
+            "error.errorgenericheading": "Qualcosa è andato storto",
+            "error.errorgenericsubtitle": "Non è stato possibile completare la richiesta. Si prega di riprovare più tardi.",
+            "featureannouncement.badge": "New feature",
+            "featureannouncement.later": "Maybe later",
+            "home.contactUs.title": "Non siamo riusciti a rispondere alle vostre domande?",
+            "home.education.text": "Sbloccate la capacità di prendere decisioni informate con le nostre risorse formative approfondite.",
+            "home.education.title": "Contenuti di formazione per investimenti più intelligenti",
+            "home.productsinsubscriptionlinktext": "Products in subscription",
+            "home.realtimeindicators.aiisa.accuracy": "AIISA’s indications on this underlying have been correct:",
+            "home.realtimeindicators.aiisa.accuracy3m": "the last 3 months",
+            "home.realtimeindicators.aiisa.accuracy6m": "the last 6 months",
+            "home.realtimeindicators.aiisa.bear": "Negative intraday trend",
+            "home.realtimeindicators.aiisa.bull": "Positive intraday trend",
+            "home.realtimeindicators.aiisa.hold": "No signal today",
+            "home.realtimeindicators.aiisa.indicationTitle": "AIISA indications for today",
+            "home.realtimeindicators.aiisa.probability": "Probability",
+            "home.realtimeindicators.aiisa.sentiment.bear": "Bear",
+            "home.realtimeindicators.aiisa.sentiment.bull": "Bull",
+            "home.realtimeindicators.aiisa.sentimentTitle": "News sentiment",
+            "home.realtimeindicators.aiisaIndications": "AI indications on OMX30",
+            "home.realtimeindicators.allproductsfor": "Tutti i prodotti su",
+            "home.realtimeindicators.graphnotavailable": "Graph not available",
+            "home.realtimeindicators.mostPopular": "I più popolari",
+            "home.realtimeindicators.title": "Prezzi in tempo reale",
+            "home.realtimeindicators.topLosers": "I peggiori",
+            "home.realtimeindicators.topWinners": "I migliori",
+            "home.seeallfaqs": "Vedi tutte le domande",
+            "home.why.1.text": "Trovate i prodotti filtrando la pagina di panoramica con filtri specifici per tipo di prodotto. ",
+            "home.why.1.title": "Tutte le informazioni chiave sul prodotto",
+            "home.why.2.text": "Ricerca ottimizzata per tutti i prodotti, gli articoli, le informazioni didattiche e le FAQ.",
+            "home.why.2.title": "Trova i prodotti in modo facile e veloce!",
+            "home.why.3.text": "Idee di investimento, approfondimenti e fatti salienti sui prodotti strutturati.",
+            "home.why.3.title": "Ispirazione e formazione",
+            "home.why.facts.subtitle": "Forniti da uno dei principali emittenti di Exchange Traded Products (ETP) in Europa.",
+            "home.why.facts.title": "Competenza. Esperienza. Strumenti. Opportunità.",
+            "internalarearegistration.login": "Accesso",
+            "internalarearegistration.loginmodaltitle": "Sembra che tu non abbia effettuato l'accesso",
+            "internalarearegistration.logout": "Log Out",
+            "internalarearegistration.personalinformation": "Informazioni Personali",
+            "internalarearegistration.profilesettings": "Impostazoni profilo",
+            "internalarearegistration.signup": "Registrazione",
+            "intradayproducts.allintradayproducts": "All Intraday Issued Products",
+            "introductionmodal.title2": "Vontobel Markets",
+            "legalinformation.costinformation.dataloaderror": "Impossibile trovare le informazioni sui costi per l'ISIN selezionato, riprovare più tardi",
+            "legalinformation.costinformation.disclaimertext": "Su questo sito web forniamo informazioni su indicatori applicabili negli anni precedenti, ai sensi del Regolamento delegato (UE) 2017/653 della Commissione. È possibile ricevere le informazioni in forma testuale inserendo l'ISIN del prodotto di cui sopra e inviandoci la richiesta.",
+            "legalinformation.costinformation.entrycosts": "Costi di Entrata",
+            "legalinformation.costinformation.exitcosts": "Costi di Uscita",
+            "legalinformation.costinformation.exportbutton": "Esporta come CSV",
+            "legalinformation.costinformation.ongoingcosts": "Costi Correnti",
+            "legalinformation.costinformation.showcosthistorybutton": "Mostra la storia dei costi",
+            "legalinformation.costinformation.summarycostindicator": "Indicatore riassuntivo di costo",
+            "legalinformation.costinformation.textboxplaceholder": "Si prega di digitare un ISIN",
+            "legalinformation.organisedtradingsystem.dataloaderror": "No data found.",
+            "legalinformation.organisedtradingsystem.downloadbutton": "Download CSV",
+            "legalinformation.organisedtradingsystem.maintext": "We publish all trades entered into the organized trading system deritrade by Vontobel Secondary Market at the end of a trading day on this website. The data consists of Swiss Securities Code (Valor), ISIN, price, volume and time of each trade. Information on most recent 30 days is available in general.",
+            "legalinformation.organisedtradingsystem.selectdatetext": "Select date",
+            "magazineDownloadPage.heading": "Weekly Note: il Magazine settimanale di Vontobel per orientarsi sui mercati e operare in maniera consapevole",
+            "magazineDownloadPage.previousMagazinesHeading": "Numeri precedenti",
+            "magazineDownloadPage.showOlder": "Mostra numeri precedenti",
+            "magazineDownloadPage.subHeading": "Disponibile in italiano",
+            "newsletter.alreadysubscribed.emailplaceholder": "La sua email",
+            "newsletter.alreadysubscribed.headline": "È già iscritto? Gestisca le sue sottoscrizioni",
+            "newsletter.alreadysubscribed.sendemailbutton": "Invia email",
+            "newsletter.alreadysubscribed.text": "Inserisca la sua email per gestire le sue sottoscrizioni. Le invieremo un link di accesso alla pagina di gestione delle sottoscrizioni.",
+            "newsletter.availableIn": "Disponibile in {languages}",
+            "newsletter.emailConfirmedHeading": "Dicci di più su di te",
+            "newsletter.emailConfirmedLeadText": "La invitiamo a rispondere alle seguenti domande facoltative. Utilizzeremo queste informazioni per personalizzare la vostra esperienza con le newsletter.",
+            "newsletter.errorContactPointEmailNotFound": "The contact point email was not found.",
+            "newsletter.errorEmailNotSent": "The email could not be sent.",
+            "newsletter.errorHashIdMissing": "The hash id is missing",
+            "newsletter.errorLinkAlreadySent": "The confirmation link was already sent.",
+            "newsletter.errorLinkExpired": "The confirmation link has expired.",
+            "newsletter.interests": "A quali newsletter siete interessati?",
+            "newsletter.interests.blog.description": "Scopri tutte le informazioni essenziali per capire cosa si muove sui mercati e per operare in maniera consapevole sul mercato azionario e delle materie prime, al rialzo e al ribasso.",
+            "newsletter.interests.blog.name": "Weekly Note",
+            "newsletter.interests.investmentIdeas.description": "<ul><li>Rimani aggiornato sui nuovi prodotti</li><li>Idee di investimento su sottostanti o settori specifici, e temi o notizie rilevanti.</li><li>Aggiornamenti sugli ultimi sviluppi nei mercati finanziari</li></ul>",
+            "newsletter.interests.investmentIdeas.name": "Idea di investimento",
+            "newsletter.interests.newInvestmentProducts.description": "<ul><li>Le nostre ultime emissioni di Prodotti di Investimento</li><li>Prodotti su misura per le vostre esigenze</li></ul>",
+            "newsletter.interests.newInvestmentProducts.name": "Nuova emissione: Prodotti di Investimento",
+            "newsletter.interests.newLeverageProducts.description": "<ul><li>Le nostre ultime emissioni di Prodotti a Leva</li><li>Rimani informato sui nuovi Leva Fissa, Turbo, Mini-Future e Covered Warrant targati Vontobel</li></ul>",
+            "newsletter.interests.newLeverageProducts.name": "Nuova emissione: Prodotti a Leva",
+            "newsletter.interests.printMailing.description": "<ul><li>Una delle principali riviste di investimento svizzere che si occupa di prodotti strutturati</il><li>Informazioni aggiornate sui temi e le tendenze d'investimento più recenti</li><li>Fondata, professionale e precisa</li><li>Gratuita per posta in tedesco</li></ul>",
+            "newsletter.interests.printMailing.name": "Stampa mail",
+            "newsletter.interests.quarterlyMagazine.description": "",
+            "newsletter.interests.quarterlyMagazine.name": "",
+            "newsletter.interests.secondaryMarketOpportunities.description": "<ul><li>Scopri opportunità interessanti nel mercato secondario</li><li>Prodotti di investimento selezionati in base a criteri specifici</li></ul>",
+            "newsletter.interests.secondaryMarketOpportunities.name": "Opportunità sul mercato secondario",
+            "newsletter.interests.thematicInvestmentProducts.description": "",
+            "newsletter.interests.thematicInvestmentProducts.name": "Prodotti di Investimento Tematici (Nuove Emissioni)",
+            "newsletter.interests.video.description": "La web-tv giornaliera di Vontobel. Ogni giorno a partire dalle 10 in diretta una nuova sfida di trading tra due squadre. I migliori trader italiani si sfideranno in diretta con una strategia di trading operativa sulle principali azioni, indici e commodities dei mercati italiani, europei e statunitensi.",
+            "newsletter.interests.video.name": "Investv",
+            "newsletter.interests.webinar.description": "<ul><li>Rimani in contatto con gli esperti Vontobel e i nostri ospiti</li><li>Approfondisci e cogli l'occasione per fare le tue domande</li><li>Partecipa ai nostri webinar gratuitamente ed entra a far parte della community Vontobel</li></ul>",
+            "newsletter.interests.webinar.name": "Webinar",
+            "newsletter.interests.youngInvestors.description": "<ul><li>Stay informed about new products</li><li>Be inspired by our exciting investment ideas</li><li>Stay up to date on the latest stock market developments</li></ul>",
+            "newsletter.interests.youngInvestors.name": "Young Investors",
+            "newsletter.salutation": "Titolo",
+            "newsletter.salutation.mr": "Signor",
+            "newsletter.salutation.mrs": "Signora",
+            "newsletter.subtitleManage": "Come dobbiamo rivolgerci a voi?",
+            "newsletter.titleManage": "Gestisci la tua iscrizione",
+            "newsletter.topicsErrorBlank": "Seleziona almeno una newsletter",
+            "newsletter.unsubscribeButton": "Unsubscribe",
+            "newsletter.unsubscribeConfirmationHeading": "Unsubscribe",
+            "newsletter.unsubscribeConfirmationText": "Are you sure you want to unsubscribe? By clicking \"Unsubscribe\" you will no longer receive newsletters from Vontobel Markets.",
+            "newsletter.unsubscribeText": "If you no longer want to receive these emails, click here:",
+            "newsletterfooter.emaillabel": "Indirizzo E-mail",
+            "newsletterfooter.subscribebutton": "Iscriversi",
+            "newsletternotifications.alreadysusbcribedsuccess.headline": "Perfavore controlli la sua email",
+            "newsletternotifications.alreadysusbcribedsuccess.text": "Se è già iscritto, perfavore apra la mail che le abbiamo inviato e clicchi sul link. Attraverso il link arriverà alla pagina \"Gestisci sottoscrizioni\".",
+            "newsletternotifications.emailverified.headline": "Indirizzo email verificato!",
+            "newsletternotifications.emailverified.text": "Hai verificato con successo il tuo {0} indirizzo email",
+            "newsletternotifications.formvalidationerror.headline": "Please review the form",
+            "newsletternotifications.formvalidationerror.text": "Not all fields have been filled correctly",
+            "newsletternotifications.subscribeerror.headline": "L'iscrizione non è andata a buon fine",
+            "newsletternotifications.subscribeerror.text": "Si è verificato un errore. La sua sottoscrizione non è stata salvata.",
+            "newsletternotifications.subscribeerrormailexists.headline": "La sottoscrizione esiste già",
+            "newsletternotifications.subscribeerrormailexists.text": "L'e-mail è già stata registrata",
+            "newsletternotifications.subscribesuccess.headline": "Grazie per esserti iscritto!",
+            "newsletternotifications.subscribesuccess.text": "Controlla la tua casella di posta (inclusa la casella spam) e conferma il tuo indirizzo e-mail, se non sei ancora iscritto.",
+            "newsletternotifications.unsubscribeerror.headline": "Cancellazione dell'iscrizione non riuscita",
+            "newsletternotifications.unsubscribeerror.text": "Si è verificato un errore. La sottoscrizione è invariata",
+            "newsletternotifications.unsubscribesuccess.headline": "Cancellazione riuscita",
+            "newsletternotifications.unsubscribesuccess.text": "Non si riceveranno più Newsletter da Vontobel Markets.",
+            "newsletternotifications.updateprofileerror.headline": "Aggiornamento non riuscito",
+            "newsletternotifications.updateprofileerror.text": "Si è verificato un errore. Il profilo non è stato salvato.",
+            "newsletternotifications.updateprofilesuccess.headline": "Profilo aggiornato",
+            "newsletternotifications.updateprofilesuccess.text": "Il profilo è stato salvato con successo",
+            "newsletteroverlay.emaillabel": "Indirizzo E-mail",
+            "newsletteroverlay.subscribebutton": "Iscriversi",
+            "portfolio.addToPortfolio": "Aggiungi al Portafoglio",
+            "portfolio.addTransaction": "Aggiungi transazione",
+            "portfolio.date.info": "L'intervallo di tempo può solamente essere compreso tra la prima data di negoziazione e la data di scadenza. Una transazione di acquisto è obbligatoria prima di poter eseguire una vendita.",
+            "portfolio.errors.500": "Si è verificato un errore. Le chiediamo gentilmente di riprovare.",
+            "portfolio.errors.invalidPrice": "Il prezzo deve essere tra {min} e {max}",
+            "portfolio.errors.invalidquantity": "Nel portafoglio: {max}",
+            "portfolio.errors.invalidtransaction": "Transazione invalida. Per favore verifica la data, quantita e prezzo.",
+            "portfolio.errors.maxportfoliosreached": "Ammontare massimo di portafoglio raggiunto. Per favore cacellare i portafoglio o crearne uno nuovo.",
+            "portfolio.errors.maxpositionsreached": "Numero massimo di posizioni aperte raggiunto. Chiudi le posizioni o crea un nuovo portafoglio.",
+            "portfolio.errors.maxtransactionsreached": "Numero massimo di transazioni per posizione raggiunto. Elimina le transazioni o crea un nuovo portafoglio.",
+            "portfolio.errors.multipleportfoliosexists": "Esistono più portafogli",
+            "portfolio.errors.portfolionotfound": "Portafoglio non trovato",
+            "portfolio.errors.productnotfound": "Prodotto non trovato",
+            "portfolio.errors.transactionnotfound": "Transazione non trovata",
+            "portfolio.errors.unsupportedproductgroup": "Gruppo di prodotto non supportato",
+            "portfolio.errors.zeroQuantity": "La quantità deve essere minimo 1",
+            "portfolio.findProductTitle": "Trova un prodotto e aggiungi la transazione al portafoglio:",
+            "portfolio.includingAccruedInterest": "{price} incl. interessi maturati",
+            "portfolio.loginmodaltext": "Accedi o registrati per aggiungere prodotti al tuo portafoglio",
+            "portfolio.percentagePriceInfo": "Il prezzo assoluto è così calcolato (Prezzo * Valore nominale) + interessi maturati (se presenti)",
+            "portfolio.productInputError": "Inserisci un ISIN o WKN valido per il prodotto",
+            "portfolio.productInputPlaceholder": "Inserisci l'ISIN o WKN",
+            "portfolio.property.quantity": "Quantità",
+            "portfolio.property.total": "Totale",
+            "portfolio.quantity.info": "La quantità deve essere positiva.",
+            "portfolio.updated": "Portafoglio aggiornato",
+            "price.atLeast": "Il prezzo deve essere almeno {min}",
+            "price.atMost": "Il prezzo deve essere al massimo {max}",
+            "productdetail.askprice": "Prezzo Lettera",
+            "productdetail.askvolume": "Volume Lettera",
+            "productdetail.barrierobservationatmaturitytooltip": "Osservazione Barriera alla Scadenza: la fluttuazione del prezzo del sottostante durante la vita del prodotto non è rilevante; lo è esclusivamente la rilevazione alla Data di Scadenza.",
+            "productdetail.barrierobservationonclosetooltip": "Osservazione Barriera Giornaliera a Chiusura: alla chiusura di ogni giornata di negoziazione durante la vita del prodotto si verifica il mantenimento del Livello Barriera da parte dell’Attività Sottostante.",
+            "productdetail.bidprice": "Prezzo Denaro",
+            "productdetail.bidvolume": "Volume Denaro",
+            "productdetail.brokerdisclaimertext": "Vontobel non è responsabile del contenuto dei seguenti siti web e non si assume alcuna responsabilità al riguardo.",
+            "productdetail.brokerdisclaimertitle": "Stai lasciando Vontobel Markets",
+            "productdetail.buttons.buy": "Compra",
+            "productdetail.buttons.sell": "Vendi",
+            "productdetail.chooseBrokerTextBrokerize": "Alternative: Go directly to your broker to make your order:",
+            "productdetail.choosebrokertext": "Scegliete il vostro broker preferito per effettuare l'ordine:",
+            "productdetail.depositsecuredcertificatetooltip": "Prodotti strutturati con rischio emittente ridotto. Questa protezione si realizza attraverso la collateralizzazione con un deposito.",
+            "productdetail.disclaimers.days_0": "Oggi",
+            "productdetail.disclaimers.days_1": "Domani",
+            "productdetail.disclaimers.days_other": "{inDays} giorni",
+            "productdetail.documentsheader": "Documenti",
+            "productdetail.esgtooltip": "Caratteristiche di Sostenibilità: PAI (strategia ESG che tiene in considerazione questioni ambientali e sociali). Per ulteriori informazioni, visitate la nostra pagina informativa ESG (Prodotti di investimento sostenibili).",
+            "productdetail.indexfamilydescription": "Descrizione della famiglia dell'Indice",
+            "productdetail.indexfamilydescriptionerror": "Impossibile caricare la descrizione della famiglia dell'indice. Riprovare più tardi.",
+            "productdetail.indexhistory": "Storia dell’Indice",
+            "productdetail.indexhistoryerror": "Errore nel caricare la storia dell’indice. Riprovare più tardi.",
+            "productdetail.indexhistorynoentry": "Non ci sono eventi nella Storia dell'Indice di questo prodotto.",
+            "productdetail.indexhistorynoentrytype": "Non ci sono eventi nella storia dell’indice per il tipo (0).",
+            "productdetail.indexhistorynoentrywithfilter": "Non ci sono eventi nella storia dell’indice per la combinazione di filtri corrente.",
+            "productdetail.indexhistorynoentryyear": "Non ci sono eventi nella storia dell’indice per l’anno {0}.",
+            "productdetail.indextransactions": "Transazioni dell’Indice",
+            "productdetail.indextransactionserror": "Errore nel caricare le transazioni dell’Indice. Riprovare più tardi.",
+            "productdetail.indextransactionsnoentry": "Non ci sono eventi nelle transazioni dell’indice per questo Prodotto.",
+            "productdetail.indextransactionsnoentryrange": "Non ci sono eventi nelle transazioni dell’Indice per il range {0}.",
+            "productdetail.insubscriptiontooltip": "In sottoscrizione",
+            "productdetail.intradayindexadjustmenttooltip": "Rettifica Indice Intraday: meccanismo di ricalcolo intragiornaliero del prezzo di valutazione per in caso di variazioni estreme dell’attività finanziaria sottostante. Si attiva al raggiungimento di una determinata soglia, ‘Reset Barrier’ che consente di evitare perdite superiori al capitale investito. Se raggiunta, il prodotto viene sospeso e il prezzo di valutazione viene ridefinito riprendendo il calcolo della performance dell’indice come se fosse iniziata una nuova giornata di negoziazione.",
+            "productdetail.learnmoreabout": "Scopri di più sui",
+            "productdetail.lifecycleheader": "Ciclo di vita",
+            "productdetail.marketclosed": "Mercato chiuso",
+            "productdetail.marketopen": "Mercato aperto",
+            "productdetail.nominal": "Nominale",
+            "productdetail.productaboutheader": "Informazioni sul Prodotto",
+            "productdetail.productaboutheader.prospectus": "Legal Documents",
+            "productdetail.productabouttextheader": "Su questo Prodotto",
+            "productdetail.productadditionalinformationheader": "Informazioni aggiuntive",
+            "productdetail.productdocuments.legaldocumentslinklabel": "Documenti legali",
+            "productdetail.producthistoryalltypes": "Tutte le tipologie",
+            "productdetail.producthistoryallyears": "Tutti gli anni",
+            "productdetail.producthistoryerror": "Impossibile caricare la storia del prodotto. Riprovare più tardi.",
+            "productdetail.producthistoryheader": "Avvisi",
+            "productdetail.producthistorynoentry": "Non ci sono eventi nella storia di questo Prodotto.",
+            "productdetail.producthistorynoentrytype": "Non ci sono eventi nella storia del prodotto della tipologia {0}.",
+            "productdetail.producthistorynoentrywithfilter": "Non ci sono eventi nella storia del prodotto per l'attuale combinazione di filtri.",
+            "productdetail.producthistorynoentryyear": "Non ci sono eventi nella storia del prodotto per l'anno {0}",
+            "productdetail.productoverviewheader": "Panoramica del prodotto",
+            "productdetail.quantotooltip": "Quanto: la performance del Certificato in questione è influenzata soltanto dall’andamento del l’Attività Sottostante nel suo mercato di riferimento e non dall’andamento del cambio; l’investitore è quindi protetto dal rischio di cambio, nel caso in cui l’Attività Sottostante sia negoziata in una valuta diversa da quella del Certificato.",
+            "productdetail.referenceentitytooltip": "I prodotti strutturati possono essere legati al merito di credito di entità di riferimento. Oltre ai rischi consueti, quali il rischio di mercato, di valuta e dell'emittente, l'investitore si assume i rischi specifici associati o attribuibili alla rispettiva entità di riferimento.",
+            "productdetail.referenceunderlying": "Strumento di riferimento",
+            "productdetail.secondarymarkettooltip": "\"Secondary market phase\" means that for legal reasons we are only allowed to display price indications for these products on this website during the German stock exchange trading hours. In principle, the products can continue to be traded on the stock exchange and over the counter.",
+            "productdetail.swissdotstooltip": "This product is only tradable at the marketplace Swiss Dots by Swissquote.",
+            "productdetail.traderepublictooltip": "Il prodotto è negoziabile esclusivamente tramite Trade Republic",
+            "productdetail.tripartycollateralisedinstrumenttooltip": "Il TCM (Triparty Collateral Management) comprende la copertura del rischio e la sostituzione dei titoli in tempo reale. Ciò significa: protezione in caso di insolvenza dell'emittente. Il valore attuale del certificato garantito da collaterale è assicurato dalla garanzia del garante.",
+            "productdetail.updatedon": "Aggiornato",
+            "productdetail.updatedtoday": "Aggiornato oggi ",
+            "productlandingpage.dailytrendshortdescription": "Performance odierna",
+            "productlandingpage.learnmore": "Come funzionano?",
+            "productlandingpage.mosttradedproducts": "Prodotti più scambiati",
+            "productlandingpage.newestproducts": "Nuovi prodotti ",
+            "productlandingpage.nodataintaberror": "Caricamento di \"{0}\" non riuscito. Fare clic su \"Visualizza tutti i prodotti\" per visualizzare tutti i {1}.",
+            "productlandingpage.productcountcolumn": "Prodotti",
+            "productlandingpage.selectproducttype": "Seleziona una tipologia di prodotto",
+            "productlandingpage.showless": "Visualizza meno",
+            "productlandingpage.showmore": "Visualizza di più",
+            "productlandingpage.viewallproducts": "Visualizza tutti i prodotti",
+            "productsinsubscription.allproductsinsubscription": "All products in subscription",
+            "search.allsearchresultsfor": "Tutti i risultati per",
+            "search.error": "Si è verificato un errore durante la ricerca, riprovare più tardi.",
+            "search.lastsearches": "Ricerche recenti",
+            "search.mostPopular": "Ricerche più popolari",
+            "search.noresultsfound": "Nessun risultato",
+            "search.noresultsfoundlong": "Spiacenti, non siamo riusciti a trovare alcun risultato per",
+            "search.notfound": "Nessun risultato è stato trovato.",
+            "search.placeholderlong": "Ricerca per ISIN, sottostanti, prodotti e argomenti",
+            "search.resultsin": "Risultati nel",
+            "search.viewallarticles": "Vedi tutti gli Articoli",
+            "search.viewalleducation": "Vedi tutti gli Articoli di Formazione",
+            "secondaryMarketOpportunity.allProductsLabel": "Prodotti interessanti sul mercato secondario",
+            "secondaryMarketOpportunity.emptyDescription": "Perfavore controlli più tardi",
+            "secondaryMarketOpportunity.emptyTitle": "Nessun prodotto disponibile sul mercato secondario",
+            "signup.portfolio": "Monitora la performance del tuo portafoglio di investimento",
+            "types.articletype.column": "Colonna",
+            "types.articletype.commodity": "Commodities",
+            "types.articletype.cryptocurrencies": "Criptovalute",
+            "types.articletype.education": "Formazione",
+            "types.articletype.interview": "Intervista",
+            "types.articletype.investmentidea": "Idea di Investimento",
+            "types.articletype.investmenttv": "Investv",
+            "types.articletype.investorsoutlook": "Investors’ Outlook",
+            "types.articletype.knowhow": "Know-how",
+            "types.articletype.magazine": "Magazine",
+            "types.articletype.radio": "Radio",
+            "types.articletype.thematicinvestments": "Investimenti Tematici",
+            "types.articletype.tradingmonday": "Trading Monday",
+            "types.articletype.video": "Video",
+            "types.articletype.vontobelnews": "Vontobel News",
+            "types.articletype.weeklynote": "Weekly Note",
+            "types.articletype.zurichstockexchange": "Zurich stock exchange",
+            "types.baseprospectusadditionaldocumenttype.article": "Statuto",
+            "types.baseprospectusadditionaldocumenttype.esgstandards": "Articles of Incorporation of EFGISFL",
+            "types.baseprospectusadditionaldocumenttype.financialdocument": "Rendiconti Finanziari",
+            "types.baseprospectusadditionaldocumenttype.prolongationlist": "Liste di estensioni",
+            "types.baseprospectusadditionaldocumenttype.registrationdocument": "Documenti di Registrazione",
+            "types.callability.autocallable": "Autocallable ",
+            "types.callability.issuercallable": "Callable (dall'emittente)",
+            "types.chartrange._1day": "1G",
+            "types.chartrange._1month": "1M",
+            "types.chartrange._1week": "1S",
+            "types.chartrange._1year": "1A",
+            "types.chartrange._2days": "2G",
+            "types.chartrange.max": "Max",
+            "types.chartrange.yeartodate": "YTD",
+            "types.chartrangelong._1day": "1 Giorno",
+            "types.chartrangelong._1month": "1 Mese",
+            "types.chartrangelong._1week": "1 Settimana",
+            "types.chartrangelong._1year": "1 Anno",
+            "types.chartrangelong._2days": "2 Giorni",
+            "types.chartrangelong.max": "Massimo",
+            "types.chartrangelong.yeartodate": "Year to Date",
+            "types.collateralisation.no": "No",
+            "types.collateralisation.yes": "Yes",
+            "types.contenttype.article": "Ispirazione",
+            "types.contenttype.article_other": "Ispirazione",
+            "types.contenttype.education": "Formazione",
+            "types.contenttype.education_other": "Formazione",
+            "types.contenttype.faq": "Risposte alle FAQ ",
+            "types.contenttype.faq_other": "FAQ",
+            "types.contenttype.product": "Prodotto",
+            "types.contenttype.product_other": "Prodotti",
+            "types.contenttype.productcategory_other": "Categorie di Prodotto",
+            "types.contenttype.producttype_other": "Tipologie di Prodotto",
+            "types.contenttype.underlying_other": "Sottostanti",
+            "types.couponmemorytype.fixcoupon": "Cedola fissa",
+            "types.couponmemorytype.inmemory": "Memoria",
+            "types.direction.call": "Call",
+            "types.direction.long": "Long",
+            "types.direction.put": "Put",
+            "types.direction.short": "Short",
+            "types.language.chinese": "Cinese",
+            "types.language.czech": "Ceco",
+            "types.language.danish": "Danese",
+            "types.language.dutch": "Olandese",
+            "types.language.english": "Inglese",
+            "types.language.finnish": "Finlandese",
+            "types.language.french": "Francese",
+            "types.language.german": "Tedesco",
+            "types.language.greek": "Greek",
+            "types.language.hungarian": "Ungherese",
+            "types.language.italian": "Italiano",
+            "types.language.norwegian": "Norvegese",
+            "types.language.norwegianbokmal": "Norvegese",
+            "types.language.notset": "Altro",
+            "types.language.polish": "Polacco",
+            "types.language.portuguese": "Portoghese",
+            "types.language.slovakian": "Slovacco",
+            "types.language.spanish": "Spagnolo",
+            "types.language.swedish": "Svedese",
+            "types.pricefactor.percent": "Percentuale",
+            "types.pricefactor.units": "Unità",
+            "types.prodkatsvsp.constantleveragecertificate": "Constant Leverage-Zertifikat",
+            "types.prodkatsvsp.factorindexcertificate": "Constant Leverage-Zertifikat",
+            "types.productfeaturetype.airbag": "Airbag",
+            "types.productfeaturetype.athena": "Athena",
+            "types.productfeaturetype.barrier": "Barriera",
+            "types.productfeaturetype.callability": "Callability",
+            "types.productfeaturetype.collateralisation": "Collateralizzazione",
+            "types.productfeaturetype.couponperannum": "Cedola p.a.",
+            "types.productfeaturetype.couponperannumpotential": "Cedola potenziale p.a.",
+            "types.productfeaturetype.coupontotal": "Cedola",
+            "types.productfeaturetype.currency": "Valuta",
+            "types.productfeaturetype.finalfixing": "Scadenza",
+            "types.productfeaturetype.leverage": "Leva",
+            "types.productfeaturetype.lowerbarrier": "Lower Barrier",
+            "types.productfeaturetype.maxibonusamount": "Importo Maxi Cedola",
+            "types.productfeaturetype.maxicoupon": "Maxi Cedola",
+            "types.productfeaturetype.multi": "Multi",
+            "types.productfeaturetype.openend": "Open-End",
+            "types.productfeaturetype.quanto": "Quanto",
+            "types.productfeaturetype.stepdown": "Step-Down",
+            "types.productfeaturetype.stepdowncalllevel": "Step Down",
+            "types.productfeaturetype.sustainable": "Sostenibile",
+            "types.productfeaturetype.upperbarrier": "Upper Barrier",
+            "types.productfeaturetype.withMaturity": "Closed-End",
+            "types.productgroup.plurallong.investment": "Prodotti di Investimento",
+            "types.productgroup.plurallong.leverage": "Prodotti a Leva",
+            "types.productgroup.plurallong.other": "Altri",
+            "types.productgroup.plurallong.thematicinvestment": "Prodotti di Investimento Tematici",
+            "types.producticon.autocallable": "Autocallable",
+            "types.producticon.barrierhit": "Barriera raggiunta",
+            "types.producticon.barriermonitoringatmaturity": "Osservazione della Barriera a Scadenza",
+            "types.producticon.barriermonitoringdailybasedoncloseprice": "Osservazione della Barriera quotidiana (a chiusura)",
+            "types.producticon.cancelled": "Cancellato",
+            "types.producticon.depositsecuredcertificate": "Certificato Deposit-Secured",
+            "types.producticon.insubscription": "In sottoscrizione",
+            "types.producticon.intradayindexadjustment": "Rettifica dell'indice intraday",
+            "types.producticon.issuercallable": "Callable (dall'emittente)",
+            "types.producticon.ordinarytermination": "Estinzione ordinaria",
+            "types.producticon.quanto": "Quanto",
+            "types.producticon.referenceentity": "Obbligazione di Riferimento",
+            "types.producticon.secondarymarketphase": "Fase di mercato secondario",
+            "types.producticon.soldout": "Esaurito",
+            "types.producticon.sustainability": "ESG",
+            "types.producticon.swissdots": "SwissDots",
+            "types.producticon.traderepublic": "Trade Republic",
+            "types.producticon.tripartycollateralisedinstrument": "Triparty Collateralised Instrument",
+            "types.productidentifiertype.isin": "ISIN",
+            "types.productidentifiertype.symbol": "Simbolo",
+            "types.productidentifiertype.valor": "Valore",
+            "types.productidentifiertype.wkn": "WKN",
+            "types.producttype.plurallong.amc": "Strategic Certificate",
+            "types.producttype.plurallong.barrierdiscountcertificate": "Discount Certificate con Barriera",
+            "types.producttype.plurallong.barrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.plurallong.bonuscertificate": "Bonus Certificate",
+            "types.producttype.plurallong.callablebarrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.plurallong.callablebullbearcontractn": "Callable Bull Bear Contracts N",
+            "types.producttype.plurallong.callablemultibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.plurallong.callablemultireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.plurallong.callablereverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.plurallong.capitalproctectionnote": "Certificati a Capitale Protetto",
+            "types.producttype.plurallong.capitalprotectionnote": "Capital Proctection Notes",
+            "types.producttype.plurallong.capitalprotectionnotewithknockout": "Capital Protection Note with Knock-Out",
+            "types.producttype.plurallong.cappedbonuscertificate": "Bonus Cap Certificate",
+            "types.producttype.plurallong.cappedcapitalprotectionnote": "Capped Capital Protection Note",
+            "types.producttype.plurallong.cappedoutperformancecertificate": "Outperformance Cap Certificate",
+            "types.producttype.plurallong.clc": "Leva Fissa Certificate",
+            "types.producttype.plurallong.creditlinkednote": "Credit Linked Note",
+            "types.producttype.plurallong.discountcertificate": "Discount Certificate",
+            "types.producttype.plurallong.dualcurrencynote": "Dual Currency Note",
+            "types.producttype.plurallong.expresscertificate": "Cash Collect Certificate con Barriera",
+            "types.producttype.plurallong.expresscertificatewithoutbarrier": "Cash Collect Certificates",
+            "types.producttype.plurallong.inlinewarrant": "Inline Warrant",
+            "types.producttype.plurallong.kowarrant": "Turbo Certificate",
+            "types.producttype.plurallong.kowarrantopenend": "Turbo Certificate Open-End",
+            "types.producttype.plurallong.minifuture": "Mini-Future",
+            "types.producttype.plurallong.multibarrierdiscountcertificate": "Multi Discount Certificate con Barriera",
+            "types.producttype.plurallong.multibarrierexpresscertificate": "Multi Cash Collect con Barriera ",
+            "types.producttype.plurallong.multibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.plurallong.multibonuscertificate": "Multi Bonus Certificate",
+            "types.producttype.plurallong.multicappedbonuscertificate": "Multi Capped Bonus Certificate",
+            "types.producttype.plurallong.multiexpresscertificate": "Multi Cash Collect Certificates",
+            "types.producttype.plurallong.multireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.plurallong.other": "Altri",
+            "types.producttype.plurallong.outperformancecertificate": "Outperformance Certificate",
+            "types.producttype.plurallong.reversecappedbonuscertificate": "Reverse  Bonus Cap Certificate",
+            "types.producttype.plurallong.reverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.plurallong.spreadwarrant": "Spread Warrant",
+            "types.producttype.plurallong.trackercertificate": "Tracker Certificate",
+            "types.producttype.plurallong.warrant": "Covered Warrant",
+            "types.producttype.singularlong.amc": "Strategic Certificate",
+            "types.producttype.singularlong.barrierdiscountcertificate": "Discount Certificate con Barriera",
+            "types.producttype.singularlong.barrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularlong.bonuscertificate": "Bonus Certificate",
+            "types.producttype.singularlong.callablebarrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularlong.callablebullbearcontractn": "Callable Bull Bear Contract N",
+            "types.producttype.singularlong.callablemultibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularlong.callablemultireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.singularlong.callablereverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.singularlong.capitalproctectionnote": "Certificato a Capitale Protetto",
+            "types.producttype.singularlong.capitalprotectionnote": "Capital Proctection Note",
+            "types.producttype.singularlong.capitalprotectionnotewithknockout": "Capital Protection Note with Knock-Out",
+            "types.producttype.singularlong.cappedbonuscertificate": "Bonus Cap Certificate",
+            "types.producttype.singularlong.cappedcapitalprotectionnote": "Capped Capital Protection Note",
+            "types.producttype.singularlong.cappedoutperformancecertificate": "Outperformance Cap Certificate",
+            "types.producttype.singularlong.clc": "Leva Fissa Certificate",
+            "types.producttype.singularlong.creditlinkednote": "Credit Linked Note",
+            "types.producttype.singularlong.discountcertificate": "Discount Certificate",
+            "types.producttype.singularlong.dualcurrencynote": "Dual Currency Note",
+            "types.producttype.singularlong.expresscertificate": "Cash Collect Certificate con Barriera ",
+            "types.producttype.singularlong.expresscertificatewithoutbarrier": "Cash Collect Certificate",
+            "types.producttype.singularlong.inlinewarrant": "Inline Warrant",
+            "types.producttype.singularlong.kowarrant": "Turbo Certificate",
+            "types.producttype.singularlong.kowarrantopenend": "Turbo Certificate Open End",
+            "types.producttype.singularlong.minifuture": "Mini-Future",
+            "types.producttype.singularlong.multibarrierdiscountcertificate": "Multi Discount Certificate con Barriera",
+            "types.producttype.singularlong.multibarrierexpresscertificate": "Multi Cash Collect con Barriera ",
+            "types.producttype.singularlong.multibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularlong.multibonuscertificate": "Multi Bonus Certificate",
+            "types.producttype.singularlong.multicappedbonuscertificate": "Multi Bonus Cap Certificate",
+            "types.producttype.singularlong.multiexpresscertificate": "Multi Cash Collect Certificate",
+            "types.producttype.singularlong.multireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.singularlong.other": "Altro",
+            "types.producttype.singularlong.outperformancecertificate": "Outperformance Certificate",
+            "types.producttype.singularlong.reversecappedbonuscertificate": "Reverse Bonus Cap Certificate",
+            "types.producttype.singularlong.reverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.singularlong.spreadwarrant": "Spread Warrant",
+            "types.producttype.singularlong.trackercertificate": "Tracker Certificate",
+            "types.producttype.singularlong.warrant": "Covered Warrant",
+            "types.producttype.singularshort.amc": "Strategic Certificate",
+            "types.producttype.singularshort.barrierdiscountcertificate": "Discount Certificate con Barriera",
+            "types.producttype.singularshort.barrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularshort.bonuscertificate": "Bonus Certificate",
+            "types.producttype.singularshort.callablebarrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularshort.callablebullbearcontractn": "Callable Bull Bear Contract N",
+            "types.producttype.singularshort.callablemultibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularshort.callablemultireverseconvertible": "Multi Cedola Fissa Certificate  ",
+            "types.producttype.singularshort.callablereverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.singularshort.capitalproctectionnote": "Certificato a Capitale Protetto",
+            "types.producttype.singularshort.capitalprotectionnote": "Capital Proctection Note",
+            "types.producttype.singularshort.capitalprotectionnotewithknockout": "Capital Protection Note with Knock-Out",
+            "types.producttype.singularshort.cappedbonuscertificate": "Bonus Cap Certificate",
+            "types.producttype.singularshort.cappedcapitalprotectionnote": "Capped Capital Protection Note",
+            "types.producttype.singularshort.cappedoutperformancecertificate": "Outperformance Cap Certificate",
+            "types.producttype.singularshort.clc": "Leva Fissa Certificate",
+            "types.producttype.singularshort.creditlinkednote": "CLN",
+            "types.producttype.singularshort.discountcertificate": "Discount Certificate",
+            "types.producttype.singularshort.dualcurrencynote": "DCN",
+            "types.producttype.singularshort.expresscertificate": "Cash Collect Certificate con Barriera ",
+            "types.producttype.singularshort.expresscertificatewithoutbarrier": "Cash Collect Certificate",
+            "types.producttype.singularshort.inlinewarrant": "Inline Warrant",
+            "types.producttype.singularshort.kowarrant": "Turbo Certificate",
+            "types.producttype.singularshort.kowarrantopenend": "Turbo Certificate Open-End",
+            "types.producttype.singularshort.minifuture": "Mini Future",
+            "types.producttype.singularshort.multibarrierdiscountcertificate": "Multi Discount Certificate con Barriera",
+            "types.producttype.singularshort.multibarrierexpresscertificate": "Multi Cash Collect con Barriera ",
+            "types.producttype.singularshort.multibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.singularshort.multibonuscertificate": "Multi Bonus Certificate",
+            "types.producttype.singularshort.multicappedbonuscertificate": "Multi Bonus Cap Certificate",
+            "types.producttype.singularshort.multiexpresscertificate": "Multi Cash Collect Certificate",
+            "types.producttype.singularshort.multireverseconvertible": "Multi Cedola Fissa Certificate  ",
+            "types.producttype.singularshort.other": "Altro",
+            "types.producttype.singularshort.outperformancecertificate": "Outperformance certificate",
+            "types.producttype.singularshort.reversecappedbonuscertificate": "Reverse Bonus Cap Certificate",
+            "types.producttype.singularshort.reverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.singularshort.spreadwarrant": "Spread Warrant",
+            "types.producttype.singularshort.trackercertificate": "Tracker Certificate",
+            "types.producttype.singularshort.warrant": "Covered Warrant",
+            "types.watchlisterror.inputinvalid": "Imput non valido",
+            "types.watchlisterror.itemnotfound": "Non nella lista",
+            "types.watchlisterror.maxwatchlistitemsreached": "Sembra aver raggiunto il massimo di 250 prodotti. Se vuoi aggiungere nuovi prodotti, per favore rimuovi alcuni ISIN dalla Watchlist.",
+            "types.watchlisterror.none": "Errore sconosciuto",
+            "types.watchlisterror.productalreadyinwatchlist": "Già nella lista",
+            "types.watchlisterror.productnotfound": "Prodotto non trovato",
+            "types.watchlisterror.unknownerror": "Errore sconosciuto",
+            "userform.emailErrorInvalid": "Si prega di inserire una email valida",
+            "userform.emailerrorblank": "\"Email\" non può essere vuoto",
+            "userform.emaillabel": "Indirizzo email",
+            "userform.emailplaceholder": "Inserisci il tuo indirizzo email",
+            "userform.firstnameerrorblank": "Perfavore inserisca un nome valido",
+            "userform.firstnamelabel": "Nome",
+            "userform.firstnameplaceholder": "Inserisci il tuo nome",
+            "userform.lastnameerrorblank": "Perfavore inserisca un cognome valido",
+            "userform.lastnamelabel": "Cognome",
+            "userform.lastnameplaceholder": "Inserisci il tuo cognome",
+            "userform.missingtermsandconditionstext": "Devi accettare i Termini e Condizioni",
+            "userform.namechangedheading": "Nome cambiato.",
+            "userform.namechangedtext": "Hai cambiato con successo il tuo nome nel tuo account Vontobel Markets",
+            "userform.passworderrorblank": "\"Password\" non può essere vuoto",
+            "userform.passwordinvalid": "La password non corrisponde al criterio (lunghezza da 8 a 128 caratteri, un carattere maiuscolo, un carattere minuscolo, un numero O un carattere speciale)",
+            "userform.passwordlabel": "Password",
+            "userform.passwordplaceholder": "Inserisci la tua password",
+            "userform.passwordstrongmessage": "Eccellente! La password è complessa",
+            "userform.passwordtooshortmessage": "La password deve essere almeno di 8 caratteri",
+            "userform.passwordweakmessage": "La password è valida",
+            "userform.salutationErrorBlank": "Seleziona il tuo Titolo",
+            "userform.salutationmr": "Signor",
+            "userform.salutationms": "Signora",
+            "userform.salutationtitle": "Title",
+            "userform.savechanges": "Salva modifiche",
+            "userform.showHidePassword": "Mostra/nascondi password",
+            "watchlist.addtowatchlist": "Aggiungi a Watchlist",
+            "watchlist.login": "Accesso",
+            "watchlist.loginmodaltext": "Accedi o registrati per aggiungere prodotti alla Watchlist",
+            "watchlist.prompt.add": "Aggiungi",
+            "watchlist.prompt.description": "Monitora facilmente i movimenti di prezzo e la performance da un posto solo.",
+            "watchlist.prompt.title": "Aggiungi alla Watchlist?",
+            "watchlist.reachlimitation": "Sembra che abbia raggiunto il massimo di 250 prodotti. Se vuoi aggiungere nuovi prodotti, per favore rimuovi alcuni ISIN dalla Watchlist.",
+            "watchlist.removefromwatchlist": "Rimuovi dalla Watchlist",
+            "watchlist.resetfiltersandpaging": "Azzeramento del filtro",
+            "watchlist.selectWatchlist": "Seleziona Watchlist",
+            "watchlist.signup": "Registrati",
+            "watchlist.updatedToastMessage": "Watchlist aggiornata",
+            "watchlist.watchlist": "Watchlist"
+          },
+          "interaction": {
+            "helpcenter.userquestion.badge": "Non abbiamo risposto ancora alla tua domanda?",
+            "helpcenter.userquestion.description": "Completa questo form e risponderemo il prima possibile.",
+            "helpcenter.userquestion.email": "E-mail",
+            "helpcenter.userquestion.emailplaceholder": "Inserisci la tua e-mail",
+            "helpcenter.userquestion.emailvalidationerrormessage": "Per favore inserisci una e-mail valida",
+            "helpcenter.userquestion.errormessage": "Si è verificato un errore durante l'invio del tuo messaggio. Per favore riprova più tardi.",
+            "helpcenter.userquestion.name": "Nome",
+            "helpcenter.userquestion.nameplaceholder": "Inserisci il tuo nome",
+            "helpcenter.userquestion.namevalidationerrormessage": "Per favore inserisci il tuo nome",
+            "helpcenter.userquestion.question": "Domanda",
+            "helpcenter.userquestion.questionplaceholder": "Inserisci la tua domanda",
+            "helpcenter.userquestion.questionvalidationerrormessage": "Per favore inserisci la tua domanda",
+            "helpcenter.userquestion.submitbutton": "Invia domanda",
+            "helpcenter.userquestion.successmessage": "Grazie per il tuo messaggio. Ti faremo sapere il prima possibile.",
+            "helpcenter.userquestion.title": "Inviaci un messaggio",
+            "print.cityerrorinvalid": "Perfavore inserisca una città valida",
+            "print.citylabel": "Città",
+            "print.cityplaceholder": "Inserire città",
+            "print.info": "La rivista cartacea può essere spedita via posta solo nel paese selezionato inizialmente",
+            "print.instructions": "Perfavore inserisca inofrmazioni aggiuntive",
+            "print.postnumbererrorinvalid": "Perfavore inserisca un codice postale valido",
+            "print.postnumberlabel": "PosCodice Postaletcode",
+            "print.postnumberplaceholder": "Inserire Codice Postale",
+            "print.printMailingTitle": "Rivista derinews via posta (in tedesco)",
+            "print.streeterrorinvalid": "Inserire un indirizzo valido",
+            "print.streetlabel": "Via / Numero civico",
+            "print.streetplaceholder": "Inserire Via e numero civico",
+            "productdetail.reportissue.cancelbutton": "Cancella",
+            "productdetail.reportissue.email": "Indirizzo email",
+            "productdetail.reportissue.emailplaceholder": "Inserisci il tuo indirizzo email",
+            "productdetail.reportissue.emailvalidationerrormessage": "Inserisci il tuo indirizzo email",
+            "productdetail.reportissue.errorline1": "Non è stato possibile segnalare il problema",
+            "productdetail.reportissue.errorline2": "Riprova più tardi",
+            "productdetail.reportissue.firstname": "Nome",
+            "productdetail.reportissue.firstnameplaceholder": "Nome",
+            "productdetail.reportissue.firstnamevalidationerrormessage": "Nome",
+            "productdetail.reportissue.lastname": "Cognome",
+            "productdetail.reportissue.lastnameplaceholder": "Cognome",
+            "productdetail.reportissue.lastnamevalidationerrormessage": "Cognome",
+            "productdetail.reportissue.phone": "Numero di telefono (opzionale)",
+            "productdetail.reportissue.phoneplaceholder": "Numero di telefono",
+            "productdetail.reportissue.problemdetailsplaceholder": "Inserire i dettagli",
+            "productdetail.reportissue.problemdetailstitle": "Dettagli del problema",
+            "productdetail.reportissue.problemdetailsvalidationerrormessage": "Inserire i dettagli del problema",
+            "productdetail.reportissue.productisin": "ISIN",
+            "productdetail.reportissue.reasonOther": "Altro",
+            "productdetail.reportissue.reasonPriceProblem": "Prezzo non disponibile",
+            "productdetail.reportissue.reasonTradingProblem": "Il prodotto non può essere scambiato",
+            "productdetail.reportissue.reasonsselectiontitle": "Seleziona una delle seguenti opzioni",
+            "productdetail.reportissue.reportbutton": "Seganala",
+            "productdetail.reportissue.reportdonebutton": "Fatto",
+            "productdetail.reportissue.reporterrordialogtitle": "Errore",
+            "productdetail.reportissue.reportissuereason.other": "Altro",
+            "productdetail.reportissue.reportissuereason.price": "Prezzo non disponibile",
+            "productdetail.reportissue.reportissuereason.trading": "Il prodotto non può essere scambiato",
+            "productdetail.reportissue.reportretrybutton": "Riprova",
+            "productdetail.reportissue.reportsubmitteddialogtitle": "Seganalazione inviata",
+            "productdetail.reportissue.successline1": "Grazie per la segnalazione!",
+            "productdetail.reportissue.successline2": "Il nostro team valuterà la segnalazione e ti contatterà se dovessero servire informazioni aggiuntive",
+            "productdetail.reportissue.title": "Segnala un problema"
+          },
+          "keyfigure": {
+            "metadata.industry.0": "Altro",
+            "metadata.industry.10": "Tecnologia",
+            "metadata.industry.15": "Telecomunicazioni",
+            "metadata.industry.20": "Assistenza sanitaria",
+            "metadata.industry.30": "Settore Finanziario",
+            "metadata.industry.35": "Immobiliare",
+            "metadata.industry.40": "Beni di Consumo Voluttuari ",
+            "metadata.industry.45": "Beni di consumo di prima necessità ",
+            "metadata.industry.50": "Industriali",
+            "metadata.industry.55": "Risorse di Base",
+            "metadata.industry.60": "Energia",
+            "metadata.industry.65": "Servizi Pubblici",
+            "types.instrumentcallfrequency.annually": "Annualmente",
+            "types.instrumentcallfrequency.atexpiration": "A Scadenza",
+            "types.instrumentcallfrequency.bimonthly": "Bimestrale",
+            "types.instrumentcallfrequency.biweekly": "Bisettimanale",
+            "types.instrumentcallfrequency.continuous": "Continua",
+            "types.instrumentcallfrequency.daily": "Giornaliero",
+            "types.instrumentcallfrequency.monthly": "Mensile",
+            "types.instrumentcallfrequency.notset": "-",
+            "types.instrumentcallfrequency.quarterly": "Trimestrale",
+            "types.instrumentcallfrequency.semiannually": "Semestrale",
+            "types.instrumentcallfrequency.sixweekly": "Ogni sei settimane",
+            "types.instrumentcallfrequency.weekly": "Settimanale",
+            "types.keyfigure.accruedinterest": "Interesse maturato",
+            "types.keyfigure.airbag": "Airbag",
+            "types.keyfigure.alternativecurrency": "Valuta alternativa",
+            "types.keyfigure.barrier": "Barriera",
+            "types.keyfigure.barrierdistance": "Distanza dalla Barriera",
+            "types.keyfigure.barrierhit": "Barriera raggiunta",
+            "types.keyfigure.barrierwithinitial": "Barriera",
+            "types.keyfigure.bonus": "Bonus",
+            "types.keyfigure.bonusamount": "Importo Bonus",
+            "types.keyfigure.bonusamountofdenomination": "Bonus amount of denomination",
+            "types.keyfigure.bonusamountperinterval": "Importo Bonus per intervallo",
+            "types.keyfigure.bonuslevel": "Soglia Bonus",
+            "types.keyfigure.bonusyield": "Bonus Yield",
+            "types.keyfigure.bonusyieldpa": "Bonus Yield p.a.",
+            "types.keyfigure.breakeven": "Break Even",
+            "types.keyfigure.callinterval": "Frequenza cedolare (in mesi)",
+            "types.keyfigure.calllevel": "Livello Autocall",
+            "types.keyfigure.cap": "Cap",
+            "types.keyfigure.capitalprotection": "Capital Protection",
+            "types.keyfigure.conditionalnextbonusamount": "Prossimo Pagamento dell'Importo Bonus",
+            "types.keyfigure.conditionalnextcouponpayment": "Prossimo Pagamento dell'Importo Bonus",
+            "types.keyfigure.couponexdate": "Prossima Ex-Date",
+            "types.keyfigure.couponfrequency": "Call interval (in months)",
+            "types.keyfigure.couponlevel": "Soglia Bonus",
+            "types.keyfigure.couponperannum": "Cedola p.a.",
+            "types.keyfigure.couponperannumpotential": "Cedola potenziale p.a.",
+            "types.keyfigure.couponwithcouponamount": "Cedola",
+            "types.keyfigure.couponwithcouponperannum": "Cedola (Cedola p.a.)",
+            "types.keyfigure.couponwithcouponperannumpotential": "Cedola (Cedola potenziale p.a.)",
+            "types.keyfigure.delta": "Delta",
+            "types.keyfigure.denomination": "Denomination",
+            "types.keyfigure.discount": "Discount",
+            "types.keyfigure.distancetobarrier": "Distanza da Barriera",
+            "types.keyfigure.distancetocap": "Distanza dal Cap",
+            "types.keyfigure.distancetoknockout": "Distanza da Knock-out",
+            "types.keyfigure.distancetolowerbarrier": "Distance to Lower Barrier",
+            "types.keyfigure.distancetoresetbarrier": "Distanza da Reset Barrier",
+            "types.keyfigure.distancetostoploss": "Distanza da Livello di Stop-loss",
+            "types.keyfigure.distancetostrike": "Distanza da Strike",
+            "types.keyfigure.distancetoupperbarrier": "Distance to Upper Barrier",
+            "types.keyfigure.information": "Informazioni",
+            "types.keyfigure.initialreferenceprice": "Prezzo di Riferimento Iniziale",
+            "types.keyfigure.intrinsicvalue": "Valore Intrinseco",
+            "types.keyfigure.investmentcurrency": "Valuta di Investimento",
+            "types.keyfigure.knockout": "Livello Knock-out",
+            "types.keyfigure.knockouttime": "knockout Time",
+            "types.keyfigure.leverage": "Leva",
+            "types.keyfigure.lowerbarrier": "Lower Barrier",
+            "types.keyfigure.maxibonusamount": "Maxi Cedola",
+            "types.keyfigure.maxicouponlevel": "Soglia Maxi Cedola",
+            "types.keyfigure.maximumamountofdenomination": "Maximum amount of denomination",
+            "types.keyfigure.maximumdrawdown": "Massimo Drawdown",
+            "types.keyfigure.maxpayout": "Max Payout",
+            "types.keyfigure.maxreturn": "Massimo rendimento",
+            "types.keyfigure.maxreturnpa": "Massimo rendimento p.a.",
+            "types.keyfigure.maxyield": "Max Yield",
+            "types.keyfigure.nextbonusamount": "Prossimo Pagamento dell'Importo Bonus",
+            "types.keyfigure.nextcalldate": "Prossima Data di richiamo",
+            "types.keyfigure.nextcouponpayment": "Prossimo Pagamento dell'Importo Bonus",
+            "types.keyfigure.numberofpositions": "Numero di Posizioni",
+            "types.keyfigure.omega": "Omega",
+            "types.keyfigure.performance": "Rendimento (dall'emissione)",
+            "types.keyfigure.premium": "Premio",
+            "types.keyfigure.quanto": "Quanto",
+            "types.keyfigure.rebate": "Rebate",
+            "types.keyfigure.referencebond": "Obbligazione di riferimento",
+            "types.keyfigure.referencebondissuer": "Emittente dell'Obbligazione di Riferimento",
+            "types.keyfigure.resetbarrier": "Reset Barrier / Reset Barrier % (dal Prezzo di Valutazione)",
+            "types.keyfigure.reverselevel": "Livello Reverse",
+            "types.keyfigure.sharperatio": "Sharpe Ratio",
+            "types.keyfigure.stoploss": "Livello di Stop-loss",
+            "types.keyfigure.strike": "Strike",
+            "types.keyfigure.strikecap": "Strike (Cap)",
+            "types.keyfigure.strikelevel": "Strike",
+            "types.keyfigure.strikewithpercentage": "Strike",
+            "types.keyfigure.theta": "Theta",
+            "types.keyfigure.timevalue": "Valore Temporale",
+            "types.keyfigure.underlyingcoverratio": "Multiplo",
+            "types.keyfigure.upperbarrier": "Upper Barrier",
+            "types.keyfigure.valuationprice": "Prezzo di valutazione",
+            "types.keyfigure.vega": "Vega",
+            "types.keyfigure.viewMore": "Scopri di più",
+            "types.keyfigure.volatility": "Volatilità p.a.",
+            "types.keyfigure.withtimeline.calllevel.nodata": "Nessun Livello Autocall da visualizzare",
+            "types.keyfigure.withtimeline.calllevel.title": "Prossimo Livello Autocall",
+            "types.keyfigure.withtimeline.calllevel.tooltip": "Clicca per scoprire il prossimo Livello Autocall",
+            "types.keyfigure.withtimeline.conditionalnextbonusamount.header": "Pagamento Importo Bonus",
+            "types.keyfigure.withtimeline.conditionalnextbonusamount.nodata": "Nessun pagamento Importo Bonus previsto",
+            "types.keyfigure.withtimeline.conditionalnextbonusamount.title": "Prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.conditionalnextbonusamount.tooltip": "Cliccare per verificare i prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.conditionalnextcouponpayment.header": "Pagamento Importo Bonus",
+            "types.keyfigure.withtimeline.conditionalnextcouponpayment.nodata": "Nessun pagamento Importo Bonus previsto",
+            "types.keyfigure.withtimeline.conditionalnextcouponpayment.title": "Prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.conditionalnextcouponpayment.tooltip": "Cliccare per verificare i prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.couponlevel.nodata": "Nessuna Soglia Bonus da visualizzare",
+            "types.keyfigure.withtimeline.couponlevel.title": "Prossima Soglia Bonus",
+            "types.keyfigure.withtimeline.couponlevel.tooltip": "Clicca per scoprire la prossima Soglia Bonus",
+            "types.keyfigure.withtimeline.nextbonusamount.header": "Pagamento Importo Bonus",
+            "types.keyfigure.withtimeline.nextbonusamount.nodata": "Nessun pagamento Importo Bonus previsto",
+            "types.keyfigure.withtimeline.nextbonusamount.title": "Prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.nextbonusamount.tooltip": "Cliccare per verificare i prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.nextcalldate.nodata": "Nessuna prossima Data di richiamo",
+            "types.keyfigure.withtimeline.nextcalldate.title": "Prossime Date di richiamo",
+            "types.keyfigure.withtimeline.nextcalldate.tooltip": "Clicca per verificare la prossima Data di richiamo",
+            "types.keyfigure.withtimeline.nextcouponamount.header": "Coupon Payment",
+            "types.keyfigure.withtimeline.nextcouponamount.nodata": "No upcoming Coupon Payments",
+            "types.keyfigure.withtimeline.nextcouponamount.title": "Next Coupon Payments",
+            "types.keyfigure.withtimeline.nextcouponamount.tooltip": "Click to check next Coupon Payments",
+            "types.keyfigure.withtimeline.nextcouponpayment.header": "Pagamento Importo Bonus",
+            "types.keyfigure.withtimeline.nextcouponpayment.nodata": "Nessun pagamento Importo Bonus previsto",
+            "types.keyfigure.withtimeline.nextcouponpayment.title": "Prossimi pagamenti Importi Bonus",
+            "types.keyfigure.withtimeline.nextcouponpayment.tooltip": "Cliccare per verificare i prossimi pagamenti Importi Bonus",
+            "types.keyfigure.worstOf": "Worst-Of",
+            "types.structuredproductsubtype.accumulator": "Accumulator",
+            "types.structuredproductsubtype.activedynamicvoncert": "Active Dynamic Voncert",
+            "types.structuredproductsubtype.asianfixingwarrant": "Asian Fixing Warrant",
+            "types.structuredproductsubtype.asianinlinewarrant": "Asian Inline Warrant",
+            "types.structuredproductsubtype.autocalabletriggervonti": "Autocallable Trigger Multi Vonti",
+            "types.structuredproductsubtype.autocallablebarrierequityswap": "Autocallable Barrier Equity Swap",
+            "types.structuredproductsubtype.autocallableconditionalcouponbarrierequityswap": "Autocallable Conditional Coupon Barrier Equity Swap",
+            "types.structuredproductsubtype.autocallableconditionalcouponequityswap": "Autocallable Conditional Coupon Equity Swap",
+            "types.structuredproductsubtype.autocallableconditionalcouponmultibarrierequityswap": "Autocallable Conditional Coupon Multi Barrier Equity Swap",
+            "types.structuredproductsubtype.autocallableconditionalcouponmultiequityswap": "Autocallable Conditional Coupon Multi Equity Swap",
+            "types.structuredproductsubtype.autocallableequityswap": "Autocallable Equity Swap",
+            "types.structuredproductsubtype.autocallablelockinonestarmultidefendervonti": "Autocallable Lock-in Multi Defender Vonti",
+            "types.structuredproductsubtype.autocallablelockinonestarmultivonti": "Autocallable Lock-in Multi Vonti",
+            "types.structuredproductsubtype.autocallablemultibarrierequityswap": "Autocallable Multi Barrier Equity Swap",
+            "types.structuredproductsubtype.autocallablemultidefendervoncore": "Autocallable Multi Defender Voncore",
+            "types.structuredproductsubtype.autocallablemultiequityswap": "Autocallable Multi Equity Swap",
+            "types.structuredproductsubtype.autocallablemultivoncore": "Autocallable Multi Voncore",
+            "types.structuredproductsubtype.autocallabletriggerdefendervonti": "Autocallable Trigger Defender Vonti",
+            "types.structuredproductsubtype.autocallabletriggermultidefendervonti": "Autocallable Trigger Multi Defender Vonti",
+            "types.structuredproductsubtype.autocallabletriggermultivonti": "Autocallable Trigger Multi Vonti",
+            "types.structuredproductsubtype.autocallablevoncore": "Autocallable Voncore",
+            "types.structuredproductsubtype.bond": "Bond",
+            "types.structuredproductsubtype.bonuscouponnote": "Bonus Coupon Note",
+            "types.structuredproductsubtype.bonusoutperformance": "Bonus Outperformance",
+            "types.structuredproductsubtype.bonusspreadnote": "Bonus Spread Note",
+            "types.structuredproductsubtype.callablebarrierequityswap": "Callable Barrier Equity Swap",
+            "types.structuredproductsubtype.callablebullbearcontractn": "Callable Bull Bear Contract N",
+            "types.structuredproductsubtype.callablebullbearcontractr": "Callable Bull Bear Contract R",
+            "types.structuredproductsubtype.callableconditionalcouponbarrierequityswap": "Callable Conditional Coupon Barrier Equity Swap",
+            "types.structuredproductsubtype.callableconditionalcouponequityswap": "Callable Conditional Coupon Equity Swap",
+            "types.structuredproductsubtype.callableconditionalcouponmultibarrierequityswap": "Callable Conditional Coupon Multi Barrier Equity Swap",
+            "types.structuredproductsubtype.callableconditionalcouponmultiequityswap": "Callable Conditional Coupon Multi Equity Swap",
+            "types.structuredproductsubtype.callableequityswap": "Callable Equity Swap",
+            "types.structuredproductsubtype.callablelockinonestarmultidefendervonti": "Callable Lock-in Multi Defender Vonti",
+            "types.structuredproductsubtype.callablelockinonestarmultivonti": "Callable Lock-in Multi Vonti",
+            "types.structuredproductsubtype.callablemultibarrierequityswap": "Callable Multi Barrier Equity Swap",
+            "types.structuredproductsubtype.callablemultiequityswap": "Callable Multi Equity Swap",
+            "types.structuredproductsubtype.callabletriggerdefendervonti": "Callable Trigger Defender Vonti",
+            "types.structuredproductsubtype.callabletriggermultidefendervonti": "Callable Trigger Multi Defender Vonti",
+            "types.structuredproductsubtype.callabletriggermultivonti": "Callable Trigger Multi Vonti",
+            "types.structuredproductsubtype.callabletriggervonti": "Callable Trigger Vonti",
+            "types.structuredproductsubtype.cliquetnote": "Cliquet Note",
+            "types.structuredproductsubtype.collaredfloater": "Collared Floater",
+            "types.structuredproductsubtype.conditionalpivottarf": "Conditional Pivot Target Redemption Forward",
+            "types.structuredproductsubtype.conditionaltarf": "Conditional Target Redemption Forward",
+            "types.structuredproductsubtype.dailynote": "Daily Note",
+            "types.structuredproductsubtype.dailyrangeaccrualnote": "Daily Range Accrual Note",
+            "types.structuredproductsubtype.decumulator": "Decumulator",
+            "types.structuredproductsubtype.digitalcouponnote": "Digital Coupon Note",
+            "types.structuredproductsubtype.digitalnote": "Digital Note",
+            "types.structuredproductsubtype.dynamicleveragevoncore": "Dynamic Leverage Voncore",
+            "types.structuredproductsubtype.dynamicvoncore": "Dynamic Voncore",
+            "types.structuredproductsubtype.equitybarrieroption": "Equity Barrier Option",
+            "types.structuredproductsubtype.equitymultibarrieroption": "Equity Multi Barrier Option",
+            "types.structuredproductsubtype.equitymultioption": "Equity Multi Option",
+            "types.structuredproductsubtype.equityoption": "Equity Option",
+            "types.structuredproductsubtype.equityrangeaccrualnote": "Equity Range Accrual Note",
+            "types.structuredproductsubtype.exchangetradedstructuredfund": "Exchange Traded Structured Fund",
+            "types.structuredproductsubtype.floaterdefendervonti": "Floater Defender Vonti",
+            "types.structuredproductsubtype.floatermultidefendervonti": "Floater Multi Defender Vonti",
+            "types.structuredproductsubtype.floatervonti": "Floater Vonti",
+            "types.structuredproductsubtype.flooredbonuscouponnote": "Floored Bonus Coupon Note",
+            "types.structuredproductsubtype.flooredfloater": "Floored Floater",
+            "types.structuredproductsubtype.flooredfloatermultidefendervonti": "Floored Floater Multi Defender Vonti",
+            "types.structuredproductsubtype.flooredmultibonuscouponnote": "Floored Multi Bonus Coupon Note",
+            "types.structuredproductsubtype.fxoption": "FX Option",
+            "types.structuredproductsubtype.inlinewarrant": "Inline Warrant",
+            "types.structuredproductsubtype.leveragedefendervonti": "Leverage Defender Vonti",
+            "types.structuredproductsubtype.leveragerangedefendervonti": "Leverage Range Defender Vonti",
+            "types.structuredproductsubtype.lifeinsurance": "Life Insurance",
+            "types.structuredproductsubtype.lockinonestarmultidefendervonti": "Lock-in Multi Defender Vonti",
+            "types.structuredproductsubtype.lockinonestarmultivonti": "Lock-in Multi Vonti",
+            "types.structuredproductsubtype.managedriskvoncert": "Managed Risk Certificate",
+            "types.structuredproductsubtype.minifutureclosedend": "Mini Future closed end",
+            "types.structuredproductsubtype.moneymarketnotesopenend": "Money Market Note Open End",
+            "types.structuredproductsubtype.multibonuscouponnote": "Multi Bonus Coupon Note",
+            "types.structuredproductsubtype.multibonusoutperformance": "Multi Bonus Outperformance",
+            "types.structuredproductsubtype.multidefendervoncore": "Multi Defender Voncore",
+            "types.structuredproductsubtype.multidefendervontiplus": "Multi Defender Vonti Plus",
+            "types.structuredproductsubtype.multidigitalcouponnote": "Multi Digital Coupon Note",
+            "types.structuredproductsubtype.multirangeunit": "Multi Range Unit",
+            "types.structuredproductsubtype.multitriggervonti": "Autocallable Trigger Multi Vonti",
+            "types.structuredproductsubtype.multivoncert": "Multi Voncert",
+            "types.structuredproductsubtype.multivoncore": "Multi Voncore",
+            "types.structuredproductsubtype.other": "Other",
+            "types.structuredproductsubtype.pivottarf": "Pivot Target Redemption Forward",
+            "types.structuredproductsubtype.rangedefendervonti": "Range Defender Vonti",
+            "types.structuredproductsubtype.rangenote": "Range Note",
+            "types.structuredproductsubtype.rangeunit": "Range Unit",
+            "types.structuredproductsubtype.rangevonti": "Range Vonti",
+            "types.structuredproductsubtype.spreadmultidefendervonti": "Spread Multi Defender Vonti",
+            "types.structuredproductsubtype.stabilitynote": "Stability Note",
+            "types.structuredproductsubtype.stranglevontobelwarrant": "Strangle Vontobel Warrant",
+            "types.structuredproductsubtype.swapnotesopenend": "Swap Note Open End",
+            "types.structuredproductsubtype.tarf": "Target Redemption Forward",
+            "types.structuredproductsubtype.touchdownwarrant": "Touchdown-Warrant",
+            "types.structuredproductsubtype.triggerdefendervonti": "Trigger Defender Vonti",
+            "types.structuredproductsubtype.triggermultidefendervonti": "Trigger Multi Defender Vonti",
+            "types.structuredproductsubtype.triggervonti": "Trigger Vonti",
+            "types.structuredproductsubtype.twinwinvoncert": "Twin-Win Voncert",
+            "types.structuredproductsubtype.unknown": "Unknown",
+            "types.structuredproductsubtype.vonpep": "VonPeP",
+            "types.structuredproductsubtype.vontifloor": "Vontifloor",
+            "types.structuredproductsubtype.vontobelabsoluteincomenote": "Vontobel Absolute Income Note",
+            "types.structuredproductsubtype.vontobelbonusincomenote": "Vontobel Bonus Income Note",
+            "types.structuredproductsubtype.vontobelcallnote": "Vontobel Call Note",
+            "types.structuredproductsubtype.vontobelcappedunitwithcoupon": "Vontobel Capped Unit with Coupon",
+            "types.structuredproductsubtype.vontobelexchangeablenote": "Vontobel Exchangeable Note",
+            "types.structuredproductsubtype.vontobeltermnote": "Vontobel Term Note",
+            "types.structuredproductsubtype.vontobelunitwithcoupon": "Vontobel Unit with Coupon",
+            "types.structuredproductsubtype.xminifuture": "X-Mini Future"
+          },
+          "productdetail": {
+            "brokerize.errorConnecting": "Failed to connect to Brokerize. Please try again later.",
+            "brokerize.learnMore": "Learn more",
+            "brokerize.learnMoreContent": "You can log in with these partner brokers and trade directly or view your portfolio without leaving the application. No additional costs are incurred for you. The highest security standards are guaranteed.",
+            "brokerize.legalInformation": "Legal information",
+            "brokerize.loadingBrokerize": "Loading Brokerize...",
+            "brokerize.loggedIn": "Logged in",
+            "brokerize.loginWith": "Login with",
+            "brokerize.logout": "Log out",
+            "brokerize.madePossibleBy": "Trading made possible by",
+            "brokerize.mobileBuySell": ". Simply click on ‘’Sell’’ or ‘’Buy’’ button above.",
+            "brokerize.new": "NEW",
+            "brokerize.security": "Security",
+            "brokerize.securityInformation": "Security information",
+            "brokerize.selectPartnerBroker": "Select partner broker and trade immediately",
+            "brokerize.selectedBroker": "Selected broker",
+            "brokerize.sessionExpired": "Your session has expired. Please try again.",
+            "brokerize.tradeDirectly": "You can now <b>trade directly</b> with your <b>existing broker account</b>",
+            "brokerize.tradeNowAtYourBroker": "Trade now at your broker",
+            "bxswiss.chart": "(powered by BX Swiss)",
+            "bxswiss.modal": "Powered by BX Swiss.",
+            "dates.month.april": "Aprile",
+            "dates.month.august": "Agosto",
+            "dates.month.december": "Dicembre",
+            "dates.month.february": "Febbraio ",
+            "dates.month.january": "Gennaio",
+            "dates.month.july": "Luglio",
+            "dates.month.june": "Giugno",
+            "dates.month.march": "Marzo",
+            "dates.month.may": "Maggio",
+            "dates.month.november": "Novembre",
+            "dates.month.october": "Ottobre",
+            "dates.month.september": "Settembre",
+            "dates.monthshort.april": "Apr",
+            "dates.monthshort.august": "Ago",
+            "dates.monthshort.december": "Dic",
+            "dates.monthshort.february": "Feb",
+            "dates.monthshort.january": "Gen",
+            "dates.monthshort.july": "Lug",
+            "dates.monthshort.june": "Giu",
+            "dates.monthshort.march": "Mar",
+            "dates.monthshort.may": "Mag",
+            "dates.monthshort.november": "Nov",
+            "dates.monthshort.october": "Ott",
+            "dates.monthshort.september": "Set",
+            "dates.weekday.friday": "Venerdì",
+            "dates.weekday.monday": "Lunedì",
+            "dates.weekday.saturday": "Sabato",
+            "dates.weekday.sunday": "Domenica",
+            "dates.weekday.thursday": "Giovedì",
+            "dates.weekday.tuesday": "Martedì",
+            "dates.weekday.wednesday": "Mercoledì",
+            "dates.weekdayshort.friday": "Ven",
+            "dates.weekdayshort.monday": "Lun",
+            "dates.weekdayshort.saturday": "Sab",
+            "dates.weekdayshort.sunday": "Dom",
+            "dates.weekdayshort.thursday": "Gio",
+            "dates.weekdayshort.tuesday": "Mar",
+            "dates.weekdayshort.wednesday": "Mer",
+            "meta.description.learnmorenow": "Scopri di più",
+            "meta.description.on": "su",
+            "pagination.currentPage": "Current page",
+            "pagination.firstPage": "First page",
+            "pagination.lastPage": "Last page",
+            "pagination.nextPage": "Next page",
+            "pagination.previousPage": "Previous page",
+            "productdetail.chart.notavailable": "Grafico non disponibile",
+            "productdetail.chart.notavailabletradingdate": "Prodotto non ancora negoziabile",
+            "productdetail.chart.performanceindicator": "Performance del Prodotto",
+            "productdetail.chart.seriestype.ask": "Prezzo Lettera del Prodotto",
+            "productdetail.chart.seriestype.bid": "Prodotto",
+            "productdetail.chart.seriestype.close": "Prezzo di Chiusura del Prodotto",
+            "productdetail.chart.toggle.absolute": "Valore Assoluto",
+            "productdetail.chart.toggle.absolute.label": "Assoluto",
+            "productdetail.chart.toggle.percentage": "Percentuale",
+            "productdetail.chart.toggle.percentage.label": "%",
+            "productdetail.disclaimers.barrierhit": "Barriera raggiunta",
+            "productdetail.disclaimers.finalfixingdate_0": "Data di Valutazione Finale:",
+            "productdetail.disclaimers.finalfixingdate_1": "Data di Valutazione Finale:",
+            "productdetail.disclaimers.finalfixingdate_other": "Data di Valutazione Finale in",
+            "productdetail.disclaimers.firsttradedate_0": "Primo Giorno di Negoziazione:",
+            "productdetail.disclaimers.firsttradedate_1": "Primo Giorno di Negoziazione:",
+            "productdetail.disclaimers.firsttradedate_other": "Primo Giorno di Negoziazione previsto per il",
+            "productdetail.disclaimers.fractionalSharesInfo": "Frazioni dell'azione vengono liquidate in cash",
+            "productdetail.disclaimers.insubscription": "In sottoscrizione fino al",
+            "productdetail.disclaimers.lasttradedate_0": "Ultimo Giorno di Negoziazione:",
+            "productdetail.disclaimers.lasttradedate_1": "Ultimo Giorno di Negoziazione:",
+            "productdetail.disclaimers.lasttradedate_other": "Ultimo Giorno di Negoziazione in",
+            "productdetail.disclaimers.legalcountry": "Questo prodotto è stato emesso per il mercato <strong>{country}</strong>",
+            "productdetail.disclaimers.legalcountry.denmark": "danese",
+            "productdetail.disclaimers.legalcountry.finland": "finlandese",
+            "productdetail.disclaimers.legalcountry.france": "francese",
+            "productdetail.disclaimers.legalcountry.germany": "tedesco",
+            "productdetail.disclaimers.legalcountry.italy": "italiano",
+            "productdetail.disclaimers.legalcountry.norway": "norvegese",
+            "productdetail.disclaimers.legalcountry.sweden": "svedese",
+            "productdetail.disclaimers.legalcountry.switzerland": "svizzero",
+            "productdetail.disclaimers.legalcountry.unitedarabemirates": "Dubai International Financial District",
+            "productdetail.disclaimers.productwascalled": "Prodotto richiamato",
+            "productdetail.disclaimers.repaymentamount": "Rimborso:",
+            "productdetail.disclaimers.shares": "Azioni",
+            "productdetail.disclaimers.termination.cancellationdate": "Giorno di Estinzione:",
+            "productdetail.disclaimers.termination.cancelled": "Prodotto estinto",
+            "productdetail.disclaimers.termination.expired": "Il prodotto non è più negoziabile",
+            "productdetail.disclaimers.termination.extraordinarilyterminating_0": "Risoluzione Straordinaria:",
+            "productdetail.disclaimers.termination.extraordinarilyterminating_1": "Risoluzione Straordinaria:",
+            "productdetail.disclaimers.termination.extraordinarilyterminating_other": "Risoluzione Straordinaria al:",
+            "productdetail.disclaimers.termination.extraordinaryterminationdate": "Giorno di risoluzione straordinaria",
+            "productdetail.disclaimers.termination.knockoutreached": "Il livello di knock-out è stato raggiunto il:",
+            "productdetail.disclaimers.termination.officialnoticelink": "Avviso ufficiale",
+            "productdetail.disclaimers.termination.ordinarilyterminating_0": "Scadenza:",
+            "productdetail.disclaimers.termination.ordinarilyterminating_1": "Scadenza:",
+            "productdetail.disclaimers.termination.ordinarilyterminating_other": "Scadenza in:",
+            "productdetail.disclaimers.termination.ordinaryterminationdate": "Data di Scadenza:",
+            "productdetail.disclaimers.termination.repaid": "Il prodotto è stato rimborsato",
+            "productdetail.disclaimers.termination.repaying_0": "Scadenza",
+            "productdetail.disclaimers.termination.repaying_1": "Scadenza",
+            "productdetail.disclaimers.termination.repaying_other": "Liquidazione in",
+            "productdetail.disclaimers.termination.repaymentamount": "Rimborso:",
+            "productdetail.disclaimers.termination.repaymentdate": "Data di Liquidazione:",
+            "productdetail.disclaimers.termination.stoplossreached": "Il livello di Stop-loss è stato raggiunto il:",
+            "productdetail.disclaimers.termination.terminated": "Prodotto scaduto",
+            "productinformation.documents.empty": "Non ci sono documenti disponibili per il download per questo prodotto.",
+            "productinformation.documents.error": "Impossibile caricare i documenti. Riprovare più tardi.",
+            "relatedArticlesTitle": "Articoli correlati su",
+            "types.documenttype.ais": "AIS",
+            "types.documenttype.amcpresentation": "Presentazione",
+            "types.documenttype.brochure": "Brochure dei {productType}",
+            "types.documenttype.co2flyer": "Diritti di Emissione di CO2",
+            "types.documenttype.ea": "Condizioni Definitive",
+            "types.documenttype.ea2": "EA2",
+            "types.documenttype.eaaufstockung": "EAAufstockung",
+            "types.documenttype.efgarticlesofincorporation": "Articles of Incorporation of EFGISFL",
+            "types.documenttype.efgpricingsupplement": "Pricing Supplement",
+            "types.documenttype.efgprivateplacementprogramme": "Private Placement Program",
+            "types.documenttype.factsheet": "Factsheet",
+            "types.documenttype.fidlegwrapper": "Fidleg Wrapper",
+            "types.documenttype.flyer": "Volantino",
+            "types.documenttype.fxconfirmation": "Fx Confirmation",
+            "types.documenttype.indexguide": "Guida dell’indice",
+            "types.documenttype.informationsheet": "Scheda Informativa",
+            "types.documenttype.kid": "KID (Documento contenente le Informazioni Chiave)",
+            "types.documenttype.pib": "PIB",
+            "types.documenttype.privateplacementterms": "Condizioni del Collocamento Privato",
+            "types.documenttype.prospectus": "Prospetto di Base",
+            "types.documenttype.sa": "SA",
+            "types.documenttype.termsheet": "Final Terms",
+            "types.documenttype.underlyingcoemissionsinformationdocument": "Diritti di Emissione di CO2",
+            "types.documenttype.underlyinginformationdocument": "Documento Informativo sul Sottostante",
+            "types.documenttype.underlyingvolatilityinformationdocument": "Informazioni sulla volatilità",
+            "types.documenttype.volatilityflyer": "Informazioni sulla volatilità",
+            "types.indextransactionaction.distribution": "distribuzione",
+            "types.indextransactionaction.extraordinaryadjustment": "aggiustamento straordinario",
+            "types.indextransactionaction.increase": "aumento",
+            "types.indextransactionaction.interest": "interesse",
+            "types.indextransactionaction.reduce": "riduzione",
+            "types.indextransactionaction.taxcorrection": "rettifica fiscale",
+            "types.indextransactionaction.withholdingtax": "ritenuta fiscale",
+            "types.indextransactionsrange.all": "Tutto",
+            "types.indextransactionsrange.last180days": "Ultimi 180 giorni",
+            "types.indextransactionsrange.last30days": "Ultimi 30 giorni",
+            "types.indextransactionsrange.last360days": "Ultimi 360 giorni",
+            "types.indextransactionsrange.last90days": "Ultimi 90 giorni",
+            "types.keyfiguredescription.airbag": "Percentage from initial reference price",
+            "types.keyfiguredescription.conditionalnextbonusamount": "L’Importo Bonus viene pagato solo se le condizioni sono soddisfatte",
+            "types.keyfiguredescription.conditionalnextcouponpayment": "L’Importo Bonus viene pagato solo se le condizioni sono soddisfatte",
+            "types.lifecycleeventtype.announcementdate": "Comunicazione di Estinzione",
+            "types.lifecycleeventtype.barrierhit": "Barriera raggiunta",
+            "types.lifecycleeventtype.barrierreached": "Barriera raggiunta",
+            "types.lifecycleeventtype.call": "Called",
+            "types.lifecycleeventtype.called": "Richiamato",
+            "types.lifecycleeventtype.cancellation": "Cancellazione",
+            "types.lifecycleeventtype.finalfixing": "Data di Scadenza",
+            "types.lifecycleeventtype.firstexchangetrade": "Primo Giorno di Negoziazione",
+            "types.lifecycleeventtype.firsttrade": "Primo Giorno di Negoziazione",
+            "types.lifecycleeventtype.initialfixing": "Fixing Iniziale",
+            "types.lifecycleeventtype.lasttrade": "Ultimo Giorno di Negoziazione",
+            "types.lifecycleeventtype.openend": "Open-End",
+            "types.lifecycleeventtype.payment": "Data di Pagamento",
+            "types.lifecycleeventtype.repayment": "Data di Liquidazione",
+            "types.lifecycleeventtype.subscriptionend": "Fine del Periodo di Sottoscrizione",
+            "types.lifecycleeventtype.subscriptionstart": "Inizio del Periodo di Sottoscrizione",
+            "types.lifecycleeventtype.terminationdate": "Scadenza",
+            "types.optionexercisetype.american": "Americana",
+            "types.optionexercisetype.european": "Europea",
+            "types.productchange.announcementoftermination": "Comunicazione di Estinzione",
+            "types.productchange.barrierevents": "Eventi Barriera",
+            "types.productchange.cancellationofplacementprocess": "Annullamento della procedura di collocamento",
+            "types.productchange.changeofdocuments": "Modifica dei documenti",
+            "types.productchange.corporateaction": "Operazione Straordinaria",
+            "types.productchange.couponpaymentclientnotification": "Notifica di Pagamento della Cedola al Cliente",
+            "types.productchange.dailyupdateuniverse": "Aggiornamento Universo Giornaliero",
+            "types.productchange.datacompletion": "Completamento dei dati",
+            "types.productchange.datacorrectionintermsheet": "Correzione dei Dati nel Termsheet",
+            "types.productchange.deletion": "Cancellazione",
+            "types.productchange.delistingandcancelling": "Delisting e Cancellazione",
+            "types.productchange.dividendequivalentpayment": "Pagamento equivalente al dividendo",
+            "types.productchange.earlyredemption": "Rimborso Anticipato",
+            "types.productchange.earlyredemptionnotification": "Notifica di Rimborso Anticipato",
+            "types.productchange.floatingincomefixing": "Fixing del Reddito Variabile",
+            "types.productchange.importfromolddericms": "Importazione dal Vecchio DeriCMS",
+            "types.productchange.incomepayments": "Pagamento cedolare",
+            "types.productchange.incompleteimportfromdericms": "Importazione incompleta da DeriCMS",
+            "types.productchange.increaseordecreaseofissue": "Aumento o riduzione della size",
+            "types.productchange.initialfixing": "Fixing Iniziale",
+            "types.productchange.internetpublication": "Pubblicazione su internet",
+            "types.productchange.issuerchanges": "Modifiche relative all'Emittente",
+            "types.productchange.kidupdate": "Aggiornamento del KID",
+            "types.productchange.lossofpermit": "Perdita dell'Autorizzazione",
+            "types.productchange.newissue": "Nuova Emissione",
+            "types.productchange.noautocall": "Senza Autocall",
+            "types.productchange.notset": "Other",
+            "types.productchange.orderserviceclientnotification": "Notifica al Cliente del Servizio Ordini",
+            "types.productchange.partialliquidation": "Partial Liquidation",
+            "types.productchange.preexpiryclientnotification": "Notifica al cliente prima della scadenza",
+            "types.productchange.redemptions": "Rimborsi",
+            "types.productchange.rulebasedparameteradjustment": "Rettifica dei parametri chiave",
+            "types.productchange.sgxwarrantsreport": "Report SGX Warrants",
+            "types.productchange.stopandresumeofvaluation": "Interruzione e ripresa della Valutazione",
+            "types.productchange.targetmarketupdate": "Aggiornamento del Target Market",
+            "types.productchange.technicalupdate": "Aggiornamento Tecnico",
+            "types.productchange.template": "Schema",
+            "types.productchange.updateofmifidcosts": "Aggiornamento dei Costi MiFID",
+            "types.productchange.updatetodefinitiveterms": "Condizioni  Aggiornate",
+            "types.productchange.valuation": "Valutazione",
+            "types.productchange.wmproduktgenehmigungsprozessmifid": "Processo di Approvazione dei Prodotti WM MiFID",
+            "types.productchange.xfssimulation": "Simulazione Xfs",
+            "types.productproperty.associationname": "Categorizzazione ACEPI",
+            "types.productproperty.barrier": "Barriera",
+            "types.productproperty.barrierobservation": "Osservazione della Barriera",
+            "types.productproperty.cap": "Cap",
+            "types.productproperty.cosi": "COSI",
+            "types.productproperty.cosiortcm": "COSI (or TCM)",
+            "types.productproperty.couponfrequency": "Coupon periods",
+            "types.productproperty.couponperannum": "Cedola p.a.",
+            "types.productproperty.couponperannumpotential": "Cedola potenziale p.a.",
+            "types.productproperty.daycount": "Convenzione sul Conteggio dei Giorni",
+            "types.productproperty.denomination": "Valore Nominale",
+            "types.productproperty.financingspread": "Spread di Finanziamento",
+            "types.productproperty.guarantor": "Garante",
+            "types.productproperty.interestfractionrate": "Quota di Interesse",
+            "types.productproperty.issueprice": "Prezzo di Emissione",
+            "types.productproperty.issuer": "Emittente",
+            "types.productproperty.managementfee": "Commissione di Gestione dell'Indice p.a.",
+            "types.productproperty.marketname": "Quotazione ",
+            "types.productproperty.maxpayout": "Max Payout",
+            "types.productproperty.maxreturnpa": "Rendimento massimo p.a.",
+            "types.productproperty.optionexercisetype": "Stile",
+            "types.productproperty.performancefee": "Commissione di Performance p.a.",
+            "types.productproperty.premium": "Premio",
+            "types.productproperty.premiumfractionrate": "Componente di Premio",
+            "types.productproperty.quanto": "Quanto",
+            "types.productproperty.quotingtype": "Prezzo",
+            "types.productproperty.ratio": "Multiplo",
+            "types.productproperty.settlementtype": "Rimborso / consegna",
+            "types.productproperty.strikeprice": "Prezzo Strike",
+            "types.productproperty.tripartycollateralised": "Triparty Collateralised",
+            "types.producttype.associationname.amc": "Tracker Certificate",
+            "types.producttype.associationname.barrierdiscountcertificate": "Discount Certificate con Barriera",
+            "types.producttype.associationname.barrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.associationname.bonuscertificate": "Bonus Certificate",
+            "types.producttype.associationname.callablebarrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.associationname.callablebullbearcontractn": "Callable Bull Bear Contract",
+            "types.producttype.associationname.callablemultibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.associationname.callablemultireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.associationname.callablereverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.associationname.capitalproctectionnote": "Certificati a Capitale Protetto",
+            "types.producttype.associationname.capitalprotectionnote": "Capital Protection Note",
+            "types.producttype.associationname.capitalprotectionnotewithknockout": "Capital Protection Note with Knock-Out",
+            "types.producttype.associationname.cappedbonuscertificate": "Bonus Cap Certificate",
+            "types.producttype.associationname.cappedcapitalprotectionnote": "Capped Capital Protection Note",
+            "types.producttype.associationname.cappedoutperformancecertificate": "Outperformance Cap Certificate",
+            "types.producttype.associationname.clc": "Leva Fissa Certificate",
+            "types.producttype.associationname.creditlinkednote": "Credit Linked Note",
+            "types.producttype.associationname.discountcertificate": "Discount Certificate senza Barriera",
+            "types.producttype.associationname.dualcurrencynote": "Dual Currency Note",
+            "types.producttype.associationname.expresscertificate": "Cash Collect Certificate con Barriera ",
+            "types.producttype.associationname.expresscertificatewithoutbarrier": "Cash Collect Certificate",
+            "types.producttype.associationname.inlinewarrant": "Inline Warrant",
+            "types.producttype.associationname.kowarrant": "Turbo Certificate",
+            "types.producttype.associationname.kowarrantopenend": "Turbo Certificate Open-End",
+            "types.producttype.associationname.minifuture": "Mini Future",
+            "types.producttype.associationname.multibarrierdiscountcertificate": "Multi Discount Certificate con Barriera",
+            "types.producttype.associationname.multibarrierexpresscertificate": "Multi Cash Collect con Barriera",
+            "types.producttype.associationname.multibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.associationname.multibonuscertificate": "Multi Bonus Certificate",
+            "types.producttype.associationname.multicappedbonuscertificate": "Multi Bonus Cap Certificate",
+            "types.producttype.associationname.multiexpresscertificate": "Multi Cash Collect Certificate",
+            "types.producttype.associationname.multireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.associationname.other": "Altro",
+            "types.producttype.associationname.outperformancecertificate": "Outperformance Certificate",
+            "types.producttype.associationname.reversecappedbonuscertificate": "Reverse Bonus Cap Certificate",
+            "types.producttype.associationname.reverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.associationname.spreadwarrant": "Spread Warrant",
+            "types.producttype.associationname.trackercertificate": "Tracker Certificate",
+            "types.producttype.associationname.warrant": "Covered Warrant",
+            "types.producttype.pluralshort.amc": "Strategic Certificate",
+            "types.producttype.pluralshort.barrierdiscountcertificate": "Discount Certificate con Barriera",
+            "types.producttype.pluralshort.barrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.pluralshort.bonuscertificate": "Bonus Certificate",
+            "types.producttype.pluralshort.callablebarrierreverseconvertible": "Cedola Fissa Certificate con Barriera",
+            "types.producttype.pluralshort.callablebullbearcontractn": "Callable Bull Bear Contracts N",
+            "types.producttype.pluralshort.callablemultibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.pluralshort.callablemultireverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.pluralshort.callablereverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.pluralshort.capitalproctectionnote": "Certificati a Capitale Protetto",
+            "types.producttype.pluralshort.capitalprotectionnote": "Capital Proctection Notes",
+            "types.producttype.pluralshort.capitalprotectionnotewithknockout": "Capital Protection Note with Knock-Out",
+            "types.producttype.pluralshort.cappedbonuscertificate": "Bonus Cap Certificate",
+            "types.producttype.pluralshort.cappedcapitalprotectionnote": "Capped Capital Protection Note",
+            "types.producttype.pluralshort.cappedoutperformancecertificate": "Outperformance Cap Certificate",
+            "types.producttype.pluralshort.clc": "Certificati a Leva Fissa",
+            "types.producttype.pluralshort.creditlinkednote": "Credit Linked Note",
+            "types.producttype.pluralshort.discountcertificate": "Discount Certificate",
+            "types.producttype.pluralshort.dualcurrencynote": "Dual Currency Note",
+            "types.producttype.pluralshort.expresscertificate": "Cash Collect Certificate con Barriera ",
+            "types.producttype.pluralshort.expresscertificatewithoutbarrier": "Cash Collect Certificates",
+            "types.producttype.pluralshort.inlinewarrant": "Inline Warrant",
+            "types.producttype.pluralshort.kowarrant": "Turbo Certificate",
+            "types.producttype.pluralshort.kowarrantopenend": "Turbo Certificate Open-End",
+            "types.producttype.pluralshort.minifuture": "Mini-Future",
+            "types.producttype.pluralshort.multibarrierdiscountcertificate": "Multi Discount Certificate con Barriera",
+            "types.producttype.pluralshort.multibarrierexpresscertificate": "Multi Cash Collect con Barriera",
+            "types.producttype.pluralshort.multibarrierreverseconvertible": "Multi Cedola Fissa Certificate con Barriera",
+            "types.producttype.pluralshort.multibonuscertificate": "Multi Bonus Certificate",
+            "types.producttype.pluralshort.multicappedbonuscertificate": "Multi Bonus Cap Certificate",
+            "types.producttype.pluralshort.multiexpresscertificate": "Multi Cash Collect Certificates",
+            "types.producttype.pluralshort.multireverseconvertible": "Multi Cedola Fissa Certificate",
+            "types.producttype.pluralshort.other": "Altri",
+            "types.producttype.pluralshort.outperformancecertificate": "Outperformance Certificate",
+            "types.producttype.pluralshort.reversecappedbonuscertificate": "Reverse Bonus Cap Certificate",
+            "types.producttype.pluralshort.reverseconvertible": "Cedola Fissa Certificate",
+            "types.producttype.pluralshort.spreadwarrant": "Spread Warrant",
+            "types.producttype.pluralshort.trackercertificate": "Tracker Certificate",
+            "types.producttype.pluralshort.warrant": "Covered Warrant",
+            "types.quotingtype.clean": "Clean",
+            "types.quotingtype.dirty": "Dirty",
+            "types.quotingtype.notdefined": "-",
+            "types.quotingtype.units": "Unità",
+            "types.settlementtype.cash": "In contanti",
+            "types.settlementtype.default": "Default ",
+            "types.settlementtype.notset": "Non Definito",
+            "types.settlementtype.physical": "Consegna Fisica",
+            "types.underlyingproperty.barrier": "Barriera",
+            "types.underlyingproperty.currency": "Valuta",
+            "types.underlyingproperty.currentprice": "Prezzo",
+            "types.underlyingproperty.dailyhigh": "Massimo di Giornata",
+            "types.underlyingproperty.dailylow": "Minimo di Giornata",
+            "types.underlyingproperty.differencetoindexlastclose": "Diff. rispetto al Prezzo di Chiusura dell'Indice",
+            "types.underlyingproperty.differencetolastclose": "Diff. rispetto all'Ultimo Prezzo di Chiusura",
+            "types.underlyingproperty.differencetovaluationprice": "Diff. rispetto al Prezzo di Valutazione",
+            "types.underlyingproperty.direction": "Direzione",
+            "types.underlyingproperty.distancetobarrier": "Distanza da Barriera",
+            "types.underlyingproperty.distancetoresetbarrier": "Distanza da Reset Barrier",
+            "types.underlyingproperty.factor": "Leva",
+            "types.underlyingproperty.financingspread": "Spread di Finanziamento",
+            "types.underlyingproperty.indexfee": "Commissione di Gestione dell'Indice p.a.",
+            "types.underlyingproperty.indexhistorylink": "Storia dell'Indice",
+            "types.underlyingproperty.indexlastclose": "Prezzo di Chiusura dell'Indice",
+            "types.underlyingproperty.interestrate": "Tasso di Interesse",
+            "types.underlyingproperty.isin": "ISIN",
+            "types.underlyingproperty.lastclose": "Ultimo Prezzo di Chiusura",
+            "types.underlyingproperty.lastcloseindicative": "Ultimo Prezzo di Chiusura (indicativo)",
+            "types.underlyingproperty.listing": "Borsa",
+            "types.underlyingproperty.resetbarrier": "Reset Barrier",
+            "types.underlyingproperty.resetbarrierandpercent": "Reset Barrier / Reset Barrier % (dal Prezzo di Valutazione)",
+            "types.underlyingproperty.symbol": "Simbolo",
+            "types.underlyingproperty.timestampcurrentprice": "Prezzo Attuale",
+            "types.underlyingproperty.timestampcurrentpriceindicative": "Prezzo (indicativo)",
+            "types.underlyingproperty.timestampindexlastclose": "Prezzo di Chiusura dell'Indice",
+            "types.underlyingproperty.timestamplastclose": "Ultimo Prezzo di Chiusura",
+            "types.underlyingproperty.timestampvaluationprice": "Prezzo di Valutazione",
+            "types.underlyingproperty.type": "Tipologia",
+            "types.underlyingproperty.typegroup": "Tipologia",
+            "types.underlyingproperty.valuationprice": "Prezzo di Valutazione ",
+            "types.underlyingtype.activemanagedindex": "Indice a Gestione Attiva",
+            "types.underlyingtype.adr": "ADR",
+            "types.underlyingtype.ads": "ADS",
+            "types.underlyingtype.aktienfuture": "Future su azioni",
+            "types.underlyingtype.anderestrukturierteprodukte": "Altri prodotti strutturati",
+            "types.underlyingtype.anteilschein": "Certificato a partecipazione",
+            "types.underlyingtype.ashare": "A-share",
+            "types.underlyingtype.basket": "Basket",
+            "types.underlyingtype.bearershare": "Azioni al portatore",
+            "types.underlyingtype.bezugsrecht": "Diritto di sottoscrizione",
+            "types.underlyingtype.bond": "Bond",
+            "types.underlyingtype.bondbasket": "Basket di Bond",
+            "types.underlyingtype.bshare": "B-share",
+            "types.underlyingtype.callgeld": "Richiamato",
+            "types.underlyingtype.cash": "Cash",
+            "types.underlyingtype.certificateofdeposit": "Certificato di Deposito",
+            "types.underlyingtype.cocobond": "Obbligazione Coco",
+            "types.underlyingtype.commercialpapers": "Commercial Paper",
+            "types.underlyingtype.commodity": "Materie Prime",
+            "types.underlyingtype.commoditybasket": "Basket di Materie Prime",
+            "types.underlyingtype.commodityforward": "Forward su Materie Prime",
+            "types.underlyingtype.commodityfuture": "Future su materie prime",
+            "types.underlyingtype.commodityoption": "Opzione su Materie Prime",
+            "types.underlyingtype.commodityswap": "Swap su Materie Prime",
+            "types.underlyingtype.commonshare": "Azione Ordinaria",
+            "types.underlyingtype.convertible": "Convertibile ",
+            "types.underlyingtype.cryptocurrency": "Criptovaluta",
+            "types.underlyingtype.cryptofuture": "Future su Cripto",
+            "types.underlyingtype.dividendrightcertificate": "Certificate con diritto al dividendo",
+            "types.underlyingtype.equitybasket": "Basket su Azioni",
+            "types.underlyingtype.equityforward": "Forward su Azioni",
+            "types.underlyingtype.equityoption": "Opzione su Azioni",
+            "types.underlyingtype.equityswap": "Swap su Azioni",
+            "types.underlyingtype.exchangerate": "Tasso di Cambio",
+            "types.underlyingtype.exchangetradedfund": "Exchange Traded Fund",
+            "types.underlyingtype.exchangetradedfundindex": "Exchange Traded Fund Index",
+            "types.underlyingtype.factorindex": "Indice a Leva",
+            "types.underlyingtype.floater": "Variabile",
+            "types.underlyingtype.floaterconvertible": "Variabile Convertible",
+            "types.underlyingtype.forexbasket": "Basket di Valute",
+            "types.underlyingtype.fund": "Fondo",
+            "types.underlyingtype.fundbasket": "Basket di Fondi",
+            "types.underlyingtype.fxforward": "Forward su Valute",
+            "types.underlyingtype.fxfuture": "Future su valute",
+            "types.underlyingtype.fxoption": "Opzione su Valute",
+            "types.underlyingtype.fxswap": "Swap su Valute",
+            "types.underlyingtype.gdr": "GDR (Global Depositary Receipt)",
+            "types.underlyingtype.gmbf": "GMBF",
+            "types.underlyingtype.hebel": "Leva",
+            "types.underlyingtype.hshare": "H-share",
+            "types.underlyingtype.interestrate": "Tasso di interesse",
+            "types.underlyingtype.interestrateforward": "Forward su tassi di interesse",
+            "types.underlyingtype.interestratefuture": "Future su Tassi di Interesse",
+            "types.underlyingtype.interestrateoption": "Opzione su Tassi di Interesse",
+            "types.underlyingtype.interestrateswap": "Swap su Tassi di Interesse",
+            "types.underlyingtype.kapitalschutz": "Protezione del Capitale",
+            "types.underlyingtype.multi": "Multi ",
+            "types.underlyingtype.notset": "N/A",
+            "types.underlyingtype.nvdr": "NVDR (Non-Voting Depositary Receipt)",
+            "types.underlyingtype.othertypeofshare": "Altre tipologie di azioni",
+            "types.underlyingtype.participationcertificate": "Certificato a partecipazione",
+            "types.underlyingtype.partizipation": "Partecipazione",
+            "types.underlyingtype.performancein": "Performance index",
+            "types.underlyingtype.performanceindexcustomized": "Performance Index (Personalizzato)",
+            "types.underlyingtype.preferredshare": "Azione Privilegiata",
+            "types.underlyingtype.priceindex": "Price Index",
+            "types.underlyingtype.priceindexcustomized": "Price Index (Personalizzato)",
+            "types.underlyingtype.referenceportfolio": "Portafoglio di Riferimento",
+            "types.underlyingtype.registeredshare": "Azione Nominativa",
+            "types.underlyingtype.reit": "REIT",
+            "types.underlyingtype.renditeoptimierung": "Ottimizzazione del Rendimento",
+            "types.underlyingtype.riskpremium": "Premio per il Rischio",
+            "types.underlyingtype.sdr": "SDR",
+            "types.underlyingtype.treasurybills": "Buoni del Tesoro",
+            "types.underlyingtype.trustunits": "Quote fiduciarie",
+            "types.underlyingtype.units": "Unità",
+            "types.underlyingtype.volatilityfuture": "Future sulla Volatilità",
+            "types.underlyingtype.zerobonds": "Zero-Coupon Bond",
+            "types.underlyingtypegroup.bond": "Bond",
+            "types.underlyingtypegroup.cash": "Cash",
+            "types.underlyingtypegroup.commodity": "Materie Prime",
+            "types.underlyingtypegroup.exchangerate": "Tasso di Cambio",
+            "types.underlyingtypegroup.forward": "Forward",
+            "types.underlyingtypegroup.fund": "Fondo",
+            "types.underlyingtypegroup.future": "Future",
+            "types.underlyingtypegroup.index": "Indice",
+            "types.underlyingtypegroup.interestrate": "Tasso di Interesse",
+            "types.underlyingtypegroup.multi": "Multi",
+            "types.underlyingtypegroup.multiasset": "Multi-Asset",
+            "types.underlyingtypegroup.notset": "N/A",
+            "types.underlyingtypegroup.option": "Opzione",
+            "types.underlyingtypegroup.referenceportfolio": "Portafoglio di Riferimento",
+            "types.underlyingtypegroup.share": "Azione",
+            "types.underlyingtypegroup.structuredproduct": "Prodotto Strutturato",
+            "types.underlyingtypegroup.swap": "Swap",
+            "types.underlyingtypegroupallocation.cash": "Componente in contanti",
+            "underlyingTable.details": "Dettagli",
+            "underlyingTable.graph": "Grafico"
+          }
+        }
+      },
+      "initialLocale": "it-it",
+      "ns": [
+        "common",
+        "interaction",
+        "productdetail",
+        "keyfigure"
+      ],
+      "userConfig": {
+        "debug": false,
+        "i18n": {
+          "defaultLocale": "it-it",
+          "locales": [
+            "it-it"
+          ]
+        },
+        "interpolation": {
+          "prefix": "{",
+          "suffix": "}"
+        },
+        "localeDetection": false,
+        "lowerCaseLng": true
+      }
+    },
+    "additionalData": {
+      "about": {
+        "productAboutArticleLink": "/it-it/formazione/22126/certificati-cash-collect",
+        "productDescription": "I Certificati Cash Collect Express sono un tipo di prodotto finanziario strutturato che unisce elementi di investimenti tradizionali, come azioni o obbligazioni, a derivati strutturati e appartengono alla categoria ACEPI dei “Certificati a Capitale Condizionatamente Protetto”. Sono progettati per offrire agli investitori l'opportunità di ottenere rendimenti potenziali tramite Importi Bonus periodici fornendo allo stesso tempo protezione condizionata del capitale o caratteristiche che gli investimenti tradizionali potrebbero non offrire.",
+        "productType": 30
+      },
+      "chartRanges": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "data": {
+        "associationCode": "svsp",
+        "associationName": "Barrier Reverse Convertible con cedola condizionato",
+        "barrier": 8.168,
+        "barrierDistance": 0.076422,
+        "barrierObservation": 11,
+        "couponFrequency": 4,
+        "couponPerAnnum": 0.1344,
+        "currency": "EUR",
+        "dayCount": "30/360",
+        "denomination": 1000,
+        "direction": 1,
+        "guarantor": "Vontobel Holding AG, Zurigo",
+        "hasIndexFamilyDescription": false,
+        "hasIndexHistory": false,
+        "hasIndexTransactions": false,
+        "interestFractionRate": 0,
+        "isActive": true,
+        "isAfterFirstTrade": true,
+        "isCosi": false,
+        "isCosiOrTcm": false,
+        "isEndOfLifeComplete": false,
+        "isQuanto": false,
+        "isTradeRepublic": false,
+        "isTripartyCollateralised": false,
+        "isin": "DE000VK6PMC6",
+        "issuePrice": 1000,
+        "issueVolume": 10000,
+        "issuer": "Vontobel Financial Products GmbH, Frankfurt am Main",
+        "maxReturn": 0,
+        "maxReturnPa": 0,
+        "name": "ENI SpA, Intesa Sanpaolo SpA, Nexi SpA, STMicroelectronics NV",
+        "optionExerciseType": 1,
+        "premium": 0,
+        "premiumFractionRate": 0.2688,
+        "productType": 30,
+        "quotingType": 3,
+        "ratio": 73.4538,
+        "relevantProperties": [
+          0,
+          2,
+          1,
+          19,
+          22,
+          15,
+          16,
+          20,
+          4,
+          12,
+          26,
+          6
+        ],
+        "settlementType": 3,
+        "shortName": "ENI, Intesa Sanpaolo, Nexi, STMicroelectronics",
+        "sri": 6,
+        "strikePrice": 13.614,
+        "symbol": "F71690",
+        "underlyingCurrency": "EUR",
+        "valor": "142431533",
+        "wkn": "VK6PMC"
+      },
+      "disclaimers": [],
+      "features": [
+        1,
+        2,
+        5,
+        3,
+        4,
+        0
+      ],
+      "icons": [
+        11
+      ],
+      "identifiers": [
+        {
+          "type": 0,
+          "value": "DE000VK6PMC6"
+        },
+        {
+          "type": 3,
+          "value": "F71690"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": 29,
+          "type": 3,
+          "value": {
+            "currency": "EUR",
+            "price": 11.2
+          }
+        },
+        {
+          "name": 21,
+          "type": 2,
+          "value": {
+            "count": 1
+          }
+        },
+        {
+          "name": 70,
+          "type": 13,
+          "value": {
+            "keyFigure": {
+              "name": 70,
+              "type": 8,
+              "value": {
+                "first": {
+                  "name": 70,
+                  "type": 3,
+                  "value": {
+                    "currency": "EUR",
+                    "price": 11.2
+                  }
+                },
+                "second": {
+                  "name": 70,
+                  "type": 11,
+                  "value": {
+                    "value": "2026-04-20T00:00:00"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": 68,
+          "type": 11,
+          "value": {
+            "value": "2026-04-15T00:00:00"
+          }
+        }
+      ],
+      "lifeCycle": [
+        {
+          "isToday": false,
+          "occurrence": "2025-06-11T10:27:00",
+          "type": 2
+        },
+        {
+          "isToday": false,
+          "occurrence": "2025-06-13T00:00:00",
+          "type": 4
+        },
+        {
+          "isToday": true,
+          "occurrence": "2026-04-08T00:00:00",
+          "type": 13
+        },
+        {
+          "isToday": false,
+          "occurrence": "2027-06-08T22:00:00",
+          "type": 6
+        },
+        {
+          "isToday": false,
+          "occurrence": "2027-06-11T17:30:00",
+          "type": 7
+        },
+        {
+          "isToday": false,
+          "occurrence": "2027-06-18T00:00:00",
+          "type": 8
+        }
+      ],
+      "markets": [
+        {
+          "closeLocal": "17:30:00",
+          "mic": "SEDX",
+          "name": "SEDEX",
+          "openLocal": "09:05:00",
+          "timezoneId": "Europe/Berlin"
+        }
+      ],
+      "price": {
+        "ask": 759,
+        "askSize": 250,
+        "bid": 749,
+        "bidSize": 250,
+        "currency": "EUR",
+        "isPercentPrice": false,
+        "latest": 749,
+        "latestTimestamp": "2026-04-08T12:11:07.262+00:00",
+        "performanceReference": 707,
+        "performanceReferenceTimestamp": "2026-04-07T00:00:00+00:00",
+        "previousClose": 707,
+        "previousCloseTimestamp": "2026-04-07T15:30:00+00:00"
+      },
+      "priceFactor": 1,
+      "primaryFeatures": [
+        {
+          "$type": "ProductFeatureCouponDto",
+          "coupon": 0.1344,
+          "type": 8
+        },
+        {
+          "$type": "ProductFeatureCallabilityDto",
+          "callability": 2,
+          "type": 25
+        },
+        {
+          "$type": "ProductFeatureCouponMemoryTypeDto",
+          "couponMemoryType": 0,
+          "type": 17
+        },
+        {
+          "$type": "ProductFeatureFinalFixingDto",
+          "date": "2027-06-11T17:30:00",
+          "type": 12
+        }
+      ],
+      "primaryIdentifier": {
+        "type": 0,
+        "value": "DE000VK6PMC6"
+      },
+      "secondaryFeatures": [],
+      "tradingHours": {
+        "isOpen": true,
+        "tradingEndTime": "2026-04-08T15:30:00+00:00",
+        "tradingStartTime": "2026-04-08T07:05:00+00:00"
+      },
+      "underlyingKeyFigures": [
+        {
+          "bloombergName": "ENI IM Equity",
+          "keyFigures": [
+            {
+              "name": 36,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 36,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 36,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 8.168
+                      }
+                    },
+                    "second": {
+                      "name": 36,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 35,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 35,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 35,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 12.661
+                      }
+                    },
+                    "second": {
+                      "name": 35,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 8,
+              "type": 3,
+              "value": {
+                "currency": "EUR",
+                "price": 13.614
+              }
+            },
+            {
+              "name": 58,
+              "type": 8,
+              "value": {
+                "first": {
+                  "name": 58,
+                  "type": 3,
+                  "value": {
+                    "currency": "EUR",
+                    "price": 8.168
+                  }
+                },
+                "second": {
+                  "name": 58,
+                  "type": 0,
+                  "value": {
+                    "percentage": 0.6
+                  }
+                }
+              }
+            },
+            {
+              "name": 39,
+              "type": 4,
+              "value": {
+                "barrier": 8.168,
+                "identifier": "791",
+                "price": 22.825
+              }
+            },
+            {
+              "name": 5,
+              "type": 1,
+              "value": {
+                "ratio": 73.4538
+              }
+            }
+          ],
+          "ulinsId": 791,
+          "underlyingName": "ENI SpA"
+        },
+        {
+          "bloombergName": "ISP IM Equity",
+          "keyFigures": [
+            {
+              "name": 36,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 36,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 36,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 2.9438
+                      }
+                    },
+                    "second": {
+                      "name": 36,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 35,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 35,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 35,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 4.5629
+                      }
+                    },
+                    "second": {
+                      "name": 35,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 8,
+              "type": 3,
+              "value": {
+                "currency": "EUR",
+                "price": 4.9063
+              }
+            },
+            {
+              "name": 58,
+              "type": 8,
+              "value": {
+                "first": {
+                  "name": 58,
+                  "type": 3,
+                  "value": {
+                    "currency": "EUR",
+                    "price": 2.9438
+                  }
+                },
+                "second": {
+                  "name": 58,
+                  "type": 0,
+                  "value": {
+                    "percentage": 0.6
+                  }
+                }
+              }
+            },
+            {
+              "name": 39,
+              "type": 4,
+              "value": {
+                "barrier": 2.9438,
+                "identifier": "1487",
+                "price": 5.729
+              }
+            },
+            {
+              "name": 5,
+              "type": 1,
+              "value": {
+                "ratio": 203.81958
+              }
+            }
+          ],
+          "ulinsId": 1487,
+          "underlyingName": "Intesa Sanpaolo SpA"
+        },
+        {
+          "bloombergName": "NEXI IM Equity",
+          "keyFigures": [
+            {
+              "name": 36,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 36,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 36,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 3.118
+                      }
+                    },
+                    "second": {
+                      "name": 36,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 35,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 35,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 35,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 4.832
+                      }
+                    },
+                    "second": {
+                      "name": 35,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 8,
+              "type": 3,
+              "value": {
+                "currency": "EUR",
+                "price": 5.196
+              }
+            },
+            {
+              "name": 58,
+              "type": 8,
+              "value": {
+                "first": {
+                  "name": 58,
+                  "type": 3,
+                  "value": {
+                    "currency": "EUR",
+                    "price": 3.118
+                  }
+                },
+                "second": {
+                  "name": 58,
+                  "type": 0,
+                  "value": {
+                    "percentage": 0.6
+                  }
+                }
+              }
+            },
+            {
+              "name": 39,
+              "type": 4,
+              "value": {
+                "barrier": 3.118,
+                "identifier": "627434226",
+                "price": 3.38
+              }
+            },
+            {
+              "name": 5,
+              "type": 1,
+              "value": {
+                "ratio": 192.45574
+              }
+            }
+          ],
+          "ulinsId": 627434226,
+          "underlyingName": "Nexi SpA",
+          "worstOf": true
+        },
+        {
+          "bloombergName": "STMPA FP Equity",
+          "keyFigures": [
+            {
+              "name": 36,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 36,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 36,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 15.81
+                      }
+                    },
+                    "second": {
+                      "name": 36,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 35,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 35,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 35,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 24.506
+                      }
+                    },
+                    "second": {
+                      "name": 35,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-04-13T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 8,
+              "type": 3,
+              "value": {
+                "currency": "EUR",
+                "price": 26.35
+              }
+            },
+            {
+              "name": 58,
+              "type": 8,
+              "value": {
+                "first": {
+                  "name": 58,
+                  "type": 3,
+                  "value": {
+                    "currency": "EUR",
+                    "price": 15.81
+                  }
+                },
+                "second": {
+                  "name": 58,
+                  "type": 0,
+                  "value": {
+                    "percentage": 0.6
+                  }
+                }
+              }
+            },
+            {
+              "name": 39,
+              "type": 4,
+              "value": {
+                "barrier": 15.81,
+                "identifier": "1178",
+                "price": 32.285
+              }
+            },
+            {
+              "name": 5,
+              "type": 1,
+              "value": {
+                "ratio": 37.95066
+              }
+            }
+          ],
+          "ulinsId": 1178,
+          "underlyingName": "STMicroelectronics NV"
+        }
+      ],
+      "underlyings": [
+        {
+          "barrier": 8.168,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "IT0003132476",
+          "name": "ENI SpA",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 23.328,
+            "dailyLow": 22.25,
+            "isPercentPrice": false,
+            "latest": 22.825,
+            "latestTimestamp": "2026-04-08T12:18:33+00:00",
+            "performanceReference": 24.815,
+            "performanceReferenceTimestamp": "2026-04-07T15:29:58+00:00",
+            "previousClose": 24.815,
+            "previousCloseTimestamp": "2026-04-07T15:29:58+00:00"
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "791",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "ENI",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 791,
+          "vontobelIssued": false
+        },
+        {
+          "barrier": 2.9438,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "IT0000072618",
+          "name": "Intesa Sanpaolo SpA",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 5.736,
+            "dailyLow": 5.641,
+            "isPercentPrice": false,
+            "latest": 5.729,
+            "latestTimestamp": "2026-04-08T12:18:39+00:00",
+            "performanceReference": 5.367,
+            "performanceReferenceTimestamp": "2026-04-07T15:29:58+00:00",
+            "previousClose": 5.367,
+            "previousCloseTimestamp": "2026-04-07T15:29:58+00:00"
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "1487",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "ISP",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 1487,
+          "vontobelIssued": false
+        },
+        {
+          "barrier": 3.118,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "IT0005366767",
+          "name": "Nexi SpA",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 3.426,
+            "dailyLow": 3.33,
+            "isPercentPrice": false,
+            "latest": 3.38,
+            "latestTimestamp": "2026-04-08T12:18:26+00:00",
+            "performanceReference": 3.288,
+            "performanceReferenceTimestamp": "2026-04-07T15:29:38+00:00",
+            "previousClose": 3.288,
+            "previousCloseTimestamp": "2026-04-07T15:29:38+00:00"
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "627434226",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "NEXI",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 627434226,
+          "vontobelIssued": false
+        },
+        {
+          "barrier": 15.81,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "NL0000226223",
+          "name": "STMicroelectronics NV",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 32.355,
+            "dailyLow": 31.743,
+            "isPercentPrice": false,
+            "latest": 32.285,
+            "latestTimestamp": "2026-04-08T12:18:37+00:00",
+            "performanceReference": 30.26,
+            "performanceReferenceTimestamp": "2026-04-07T15:29:58+00:00",
+            "previousClose": 30.26,
+            "previousCloseTimestamp": "2026-04-07T15:29:58+00:00"
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "1178",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "STMPA",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 1178,
+          "vontobelIssued": false
+        }
+      ]
+    },
+    "baseContent": {
+      "contactUsSection": {
+        "contactUsPersonImage": {
+          "altText": null,
+          "url": "/globalassets/tommaso_loreggia_v009477_1280x720pxjpg"
+        },
+        "contactUsSectionEmailAddress": "markets.italia@vontobel.com",
+        "contactUsSectionOpeningHours": "Puoi contattarci telefonicamente dal lunedì al venerdì,\ndalle 8:00 - 18:00 (CET).\nDalle 18:00 alle 22:00 per eventuali richieste urgenti relative a problemi di quotazione puoi trovare il nuovo pulsante \"Segnala un problema\" direttamente nella pagina del prodotto",
+        "contactUsSectionShortIntro": "Puoi contattarci telefonicamente dal lunedì al venerdì, dalle 8:00 alle 18:00 (CET) o via mail.",
+        "contactUsSectionTelTagTelephone": "+800798693",
+        "contactUsSectionTelephone": "800 798 693",
+        "contactUsSectionTitle": "Non hai trovato risposta?"
+      },
+      "featureAnnouncement": {
+        "description": null,
+        "image": null,
+        "isFeatureAnnouncementEnabled": false,
+        "primaryButtonLink": null,
+        "technicalId": null,
+        "title": null
+      },
+      "footer": {
+        "copyRightText": "Vontobel Markets – Bank Vontobel Europe AG. Tutti i diritti riservati.",
+        "footerDisclaimer": null,
+        "pageNavigation": [
+          {
+            "id": 34847,
+            "links": [
+              {
+                "id": 34848,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "In Subscription",
+                "navigationLinkType": 0,
+                "pageId": 34845,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/prodotti/in-subscription"
+              }
+            ],
+            "name": "Prodotti",
+            "navigationGroupType": 5
+          },
+          {
+            "id": 20105,
+            "links": [
+              {
+                "id": 20106,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Ispirazione",
+                "navigationLinkType": 0,
+                "pageId": 15,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/ispirazione"
+              },
+              {
+                "id": 20107,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Formazione",
+                "navigationLinkType": 0,
+                "pageId": 1329,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/formazione"
+              },
+              {
+                "id": 39919,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Download dei prodotti",
+                "navigationLinkType": 0,
+                "pageId": 39915,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/download-dei-prodotti"
+              },
+              {
+                "id": 97357,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Newsletter",
+                "navigationLinkType": 0,
+                "pageId": 96679,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/newsletter"
+              },
+              {
+                "id": 103427,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Weekly Note",
+                "navigationLinkType": 0,
+                "pageId": 103425,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/weekly-note"
+              }
+            ],
+            "name": "Risorse",
+            "navigationGroupType": 1
+          },
+          {
+            "id": 20108,
+            "links": [
+              {
+                "id": 20109,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Supporto & Contatti",
+                "navigationLinkType": 12,
+                "pageId": 17,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/supporto-contatti"
+              },
+              {
+                "id": 20110,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Visita vontobel.com",
+                "navigationLinkType": 2,
+                "pageId": null,
+                "summary": null,
+                "target": "_blank",
+                "url": "https://www.vontobel.com"
+              },
+              {
+                "id": 20111,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "About",
+                "navigationLinkType": 3,
+                "pageId": null,
+                "summary": null,
+                "target": "_blank",
+                "url": "https://www.vontobel.com/it-it/su-vontobel/"
+              },
+              {
+                "id": 20112,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Impressum",
+                "navigationLinkType": 0,
+                "pageId": 128,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/impressum"
+              }
+            ],
+            "name": "Dati Societari",
+            "navigationGroupType": 2
+          },
+          {
+            "id": 20113,
+            "links": [
+              {
+                "id": 20114,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Informazioni Legali",
+                "navigationLinkType": 0,
+                "pageId": 120,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/informazioni-legali"
+              },
+              {
+                "id": 20115,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Privacy Policy",
+                "navigationLinkType": 0,
+                "pageId": 125,
+                "summary": null,
+                "target": null,
+                "url": "/it-it/privacy-policy"
+              }
+            ],
+            "name": "Informazioni Legali",
+            "navigationGroupType": 3
+          },
+          {
+            "id": 20116,
+            "links": [
+              {
+                "id": 20117,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "LinkedIn",
+                "navigationLinkType": 4,
+                "pageId": null,
+                "summary": null,
+                "target": "_blank",
+                "url": "https://www.linkedin.com/company/vontobel"
+              },
+              {
+                "id": 20118,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Twitter",
+                "navigationLinkType": 5,
+                "pageId": null,
+                "summary": null,
+                "target": "_blank",
+                "url": "https://twitter.com/Vontobel_SP_IT"
+              }
+            ],
+            "name": "Social",
+            "navigationGroupType": 4
+          }
+        ],
+        "text": "Si prega di leggere queste informazioni prima di continuare poiché i prodotti e i servizi contenuti in questo sito internet non sono accessibili a certi soggetti. Rilevanti sono i rispettivi prospetti ottenibili dall’emittente: Vontobel Financial Products GmbH, Bockenheimer Landstrasse 24, 60323 Francoforte sul Meno, Germania, nonché su questo sito internet. Copyright Bank Vontobel Europe AG."
+      },
+      "header": {
+        "pageNavigation": [
+          {
+            "id": 109146,
+            "isVisibleWhenLogin": false,
+            "links": [],
+            "name": "Prodotti",
+            "navigationLinkType": 6,
+            "pageId": 5939,
+            "summary": null,
+            "target": null,
+            "url": "/it-it/prodotti"
+          },
+          {
+            "id": 109151,
+            "isVisibleWhenLogin": false,
+            "links": [
+              {
+                "id": 109152,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Articoli",
+                "navigationLinkType": 10,
+                "pageId": 15,
+                "summary": "Spunti interessanti sulle ultime idee di investimento, video ed articoli di formazione dal Blog Markets",
+                "target": null,
+                "url": "/it-it/ispirazione"
+              },
+              {
+                "id": 109153,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Newsletter",
+                "navigationLinkType": 11,
+                "pageId": 96679,
+                "summary": "Iscriviti per le ultime informazioni sui Prodotti Strutturati",
+                "target": null,
+                "url": "/it-it/newsletter"
+              },
+              {
+                "id": 109154,
+                "isVisibleWhenLogin": false,
+                "links": [],
+                "name": "Formazione",
+                "navigationLinkType": 9,
+                "pageId": 1329,
+                "summary": "Le nostre risorse di formazione esaustive",
+                "target": null,
+                "url": "/it-it/formazione"
+              }
+            ],
+            "name": "Ispirazione",
+            "navigationLinkType": 14,
+            "pageId": null,
+            "summary": null,
+            "target": null,
+            "url": null
+          },
+          {
+            "id": 109156,
+            "isVisibleWhenLogin": true,
+            "links": [],
+            "name": "Watchlist",
+            "navigationLinkType": 8,
+            "pageId": 39917,
+            "summary": null,
+            "target": null,
+            "url": "/it-it/watchlist"
+          },
+          {
+            "id": 120802,
+            "isVisibleWhenLogin": true,
+            "links": [],
+            "name": "Portfolio",
+            "navigationLinkType": 19,
+            "pageId": 120801,
+            "summary": null,
+            "target": null,
+            "url": "/it-it/portfolio"
+          }
+        ]
+      },
+      "importantNotice": {
+        "importantNoticeText": null,
+        "importantNoticeTitle": null,
+        "isImportantNoticeEnabled": false
+      },
+      "isReportIssueEnabled": true,
+      "newsletterBaseContent": {
+        "enabled": true,
+        "footerLeadText": "Iscriviti per ricevere informazioni sui prodotti strutturati",
+        "overlayHeading": "Newsletter Vontobel Markets",
+        "overlayImage": {
+          "altText": null,
+          "url": "/contentassets/6cd12ce38dd44544a30aa13f78758aed/newsletter-overlay-v2"
+        },
+        "overlayLeadText": "Iscriviti per ricevere informazioni sui prodotti strutturati",
+        "overlayLegalText": "<p>I vostri dati personali saranno trattati per fornire informazioni come da <a href=\"/it-it/privacy-policy\">Privacy Policy</a></p>",
+        "subscribeUrl": "/it-it/newsletter"
+      },
+      "popularSearchQueries": [
+        "FTSE MIB",
+        "Unicredit",
+        "USD/EUR",
+        "WTI",
+        "Natural Gas"
+      ],
+      "productNavigation": [
+        {
+          "id": 5943,
+          "links": [
+            {
+              "id": 19510,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Covered Warrant",
+              "navigationLinkType": 1,
+              "pageId": 19510,
+              "productType": 3,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/leverage/covered-warrant"
+            },
+            {
+              "id": 5944,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Leva Fissa Certificate",
+              "navigationLinkType": 1,
+              "pageId": 5944,
+              "productType": 1,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/leverage/leva-fissa-certificate"
+            },
+            {
+              "id": 6117,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Mini Future",
+              "navigationLinkType": 1,
+              "pageId": 6117,
+              "productType": 2,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/leverage/mini-future"
+            },
+            {
+              "id": 19508,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Turbo Certificate",
+              "navigationLinkType": 1,
+              "pageId": 19508,
+              "productType": 4,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/leverage/turbo-certificate"
+            },
+            {
+              "id": 6115,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Turbo Certificate Open-End",
+              "navigationLinkType": 1,
+              "pageId": 6115,
+              "productType": 5,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/leverage/turbo-certificate-open-end"
+            }
+          ],
+          "name": "Certificati a Leva",
+          "pageId": 5943,
+          "productGroup": 1,
+          "url": "/it-it/prodotti"
+        },
+        {
+          "id": 19475,
+          "links": [
+            {
+              "id": 19482,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Bonus Certificate",
+              "navigationLinkType": 1,
+              "pageId": 19482,
+              "productType": 20,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/bonus-certificate"
+            },
+            {
+              "id": 19496,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Cash Collect Certificate",
+              "navigationLinkType": 1,
+              "pageId": 19496,
+              "productType": 13,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/cash-collect-certificate"
+            },
+            {
+              "id": 19494,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Cash Collect Certificate con Barriera",
+              "navigationLinkType": 1,
+              "pageId": 19494,
+              "productType": 14,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/cash-collect-certificate-con-barriera"
+            },
+            {
+              "id": 44871,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Cedola Fissa Certificate",
+              "navigationLinkType": 1,
+              "pageId": 44871,
+              "productType": 36,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/cedola-fissa-certificate"
+            },
+            {
+              "id": 44867,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Cedola Fissa Certificate con Barriera",
+              "navigationLinkType": 1,
+              "pageId": 44867,
+              "productType": 38,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/cedola-fissa-certificate-con-barriera"
+            },
+            {
+              "id": 21428,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Multi Cash Collect Certificate",
+              "navigationLinkType": 1,
+              "pageId": 21428,
+              "productType": 29,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/multi-cash-collect-certificate"
+            },
+            {
+              "id": 21426,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Multi Cash Collect Certificate con Barriera",
+              "navigationLinkType": 1,
+              "pageId": 21426,
+              "productType": 30,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera"
+            },
+            {
+              "id": 44869,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Multi Cedola Fissa Certificate",
+              "navigationLinkType": 1,
+              "pageId": 44869,
+              "productType": 37,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/multi-cedola-fissa-certificate"
+            },
+            {
+              "id": 44865,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Multi Cedola Fissa Certificate con Barriera",
+              "navigationLinkType": 1,
+              "pageId": 44865,
+              "productType": 39,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/investment/multi-cedola-fissa-certificate-con-barriera"
+            }
+          ],
+          "name": "Certificati di Investimento",
+          "pageId": 19475,
+          "productGroup": 2,
+          "url": "/it-it/prodotti"
+        },
+        {
+          "id": 5940,
+          "links": [
+            {
+              "id": 11012,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Strategic Certificate",
+              "navigationLinkType": 1,
+              "pageId": 11012,
+              "productType": 25,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/thematic/strategic-certificate"
+            },
+            {
+              "id": 5941,
+              "isVisibleWhenLogin": false,
+              "links": [],
+              "name": "Tracker Certificate",
+              "navigationLinkType": 1,
+              "pageId": 5941,
+              "productType": 24,
+              "summary": null,
+              "target": null,
+              "url": "/it-it/prodotti/thematic/tracker-certificate"
+            }
+          ],
+          "name": "Investimenti tematici",
+          "pageId": 5940,
+          "productGroup": 3,
+          "url": "/it-it/prodotti"
+        }
+      ],
+      "productUrls": {
+        "productGroupUrls": [
+          {
+            "overviewPage": "/it-it/prodotti",
+            "pageId": 5943,
+            "productGroup": 1
+          },
+          {
+            "overviewPage": "/it-it/prodotti",
+            "pageId": 19475,
+            "productGroup": 2
+          },
+          {
+            "overviewPage": "/it-it/prodotti",
+            "pageId": 5940,
+            "productGroup": 3
+          },
+          {
+            "overviewPage": "/it-it/prodotti",
+            "pageId": 19472,
+            "productGroup": 0
+          }
+        ],
+        "productTypeUrls": [
+          {
+            "overviewPage": "/it-it/prodotti/leverage/covered-warrant",
+            "pageId": 19510,
+            "productType": 3
+          },
+          {
+            "overviewPage": "/it-it/prodotti/leverage/inline-warrant",
+            "pageId": 21436,
+            "productType": 7
+          },
+          {
+            "overviewPage": "/it-it/prodotti/leverage/leva-fissa-certificate",
+            "pageId": 5944,
+            "productType": 1
+          },
+          {
+            "overviewPage": "/it-it/prodotti/leverage/mini-future",
+            "pageId": 6117,
+            "productType": 2
+          },
+          {
+            "overviewPage": "/it-it/prodotti/leverage/spread-warrants",
+            "pageId": 19506,
+            "productType": 6
+          },
+          {
+            "overviewPage": "/it-it/prodotti/leverage/turbo-certificate",
+            "pageId": 19508,
+            "productType": 4
+          },
+          {
+            "overviewPage": "/it-it/prodotti/leverage/turbo-certificate-open-end",
+            "pageId": 6115,
+            "productType": 5
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/barrier-reverse-convertible",
+            "pageId": 19502,
+            "productType": 10
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/bonus-cap-certificate",
+            "pageId": 19480,
+            "productType": 21
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/bonus-certificate",
+            "pageId": 19482,
+            "productType": 20
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/capital-protection-certificates",
+            "pageId": 19490,
+            "productType": 16
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/capital-protection-note-with-knock-out",
+            "pageId": 44861,
+            "productType": 35
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/capped-capital-protection-note",
+            "pageId": 44863,
+            "productType": 34
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/capped-outperformance-certificate",
+            "pageId": 21424,
+            "productType": 31
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/cash-collect-certificate",
+            "pageId": 19496,
+            "productType": 13
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/cash-collect-certificate-con-barriera",
+            "pageId": 19494,
+            "productType": 14
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/cedola-fissa-certificate",
+            "pageId": 44871,
+            "productType": 36
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/cedola-fissa-certificate-con-barriera",
+            "pageId": 44867,
+            "productType": 38
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/credit-linked-notes",
+            "pageId": 19488,
+            "productType": 17
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/discount-certificates",
+            "pageId": 19500,
+            "productType": 11
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/discount-certificates-with-barrier",
+            "pageId": 19498,
+            "productType": 12
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/dual-currency-notes",
+            "pageId": 19492,
+            "productType": 15
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-barrier-discount-certificate",
+            "pageId": 21430,
+            "productType": 28
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-barrier-reverse-convertible",
+            "pageId": 21432,
+            "productType": 27
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-bonus-certificate",
+            "pageId": 21422,
+            "productType": 32
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-capped-bonus-certificate",
+            "pageId": 21420,
+            "productType": 33
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-cash-collect-certificate",
+            "pageId": 21428,
+            "productType": 29
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera",
+            "pageId": 21426,
+            "productType": 30
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-cedola-fissa-certificate",
+            "pageId": 44869,
+            "productType": 37
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-cedola-fissa-certificate-con-barriera",
+            "pageId": 44865,
+            "productType": 39
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/multi-reverse-convertible",
+            "pageId": 21434,
+            "productType": 26
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/outperformance-certificates",
+            "pageId": 19486,
+            "productType": 18
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/reverse-capped-bonus-certificate",
+            "pageId": 19484,
+            "productType": 19
+          },
+          {
+            "overviewPage": "/it-it/prodotti/investment/reverse-convertible",
+            "pageId": 19504,
+            "productType": 9
+          },
+          {
+            "overviewPage": "/it-it/prodotti/thematic/strategic-certificate",
+            "pageId": 11012,
+            "productType": 25
+          },
+          {
+            "overviewPage": "/it-it/prodotti/thematic/tracker-certificate",
+            "pageId": 5941,
+            "productType": 24
+          },
+          {
+            "overviewPage": "/it-it/prodotti/other/other",
+            "pageId": 19473,
+            "productType": 0
+          },
+          {
+            "overviewPage": "/it-it/prodotti",
+            "pageId": 5939,
+            "productType": -1
+          }
+        ]
+      },
+      "urlTemplates": [
+        {
+          "pageId": 5,
+          "urlTemplate": "/it-it",
+          "urlType": 0
+        },
+        {
+          "pageId": 15,
+          "urlTemplate": "/it-it/ispirazione",
+          "urlType": 1
+        },
+        {
+          "pageId": 1245,
+          "urlTemplate": "/it-it/search-results",
+          "urlType": 6
+        },
+        {
+          "pageId": 17,
+          "urlTemplate": "/it-it/supporto-contatti",
+          "urlType": 7
+        },
+        {
+          "pageId": 120,
+          "urlTemplate": "/it-it/informazioni-legali",
+          "urlType": 8
+        },
+        {
+          "pageId": 1186,
+          "urlTemplate": "/it-it/avvisi-importanti",
+          "urlType": 10
+        },
+        {
+          "pageId": 1329,
+          "urlTemplate": "/it-it/formazione",
+          "urlType": 11
+        },
+        {
+          "pageId": 21302,
+          "urlTemplate": "/it-it/manage-subscription",
+          "urlType": 12
+        },
+        {
+          "pageId": 5939,
+          "urlTemplate": "/it-it/prodotti",
+          "urlType": 13
+        },
+        {
+          "pageId": 48074,
+          "urlTemplate": "/it-it/signup",
+          "urlType": 14
+        }
+      ]
+    },
+    "fullWidthFooter": false,
+    "hasBaseData": true,
+    "layout": 1,
+    "nonce": "ded4e24c",
+    "pageData": {
+      "baseContentVersionHash": "IvL1K+1McclDljTwlv+5oSBbgVLBfmba2TCd3oKM1F8=",
+      "category": null,
+      "contentCulture": "it-it",
+      "contentLink": {
+        "guidValue": "09725619-8f09-4860-8417-078aa76130f5",
+        "id": 21427,
+        "url": "/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera/",
+        "workId": 0
+      },
+      "contentType": [
+        "Page",
+        "ProductDetailPage"
+      ],
+      "culture": "it-it",
+      "disclaimerVersion": "it-3",
+      "excludeFromSeo": false,
+      "isin": "DE000VK6PMC6",
+      "metaTitle": "Product | Vontobel Markets",
+      "name": "Product",
+      "pageId": 21427,
+      "pageTrackingDto": {
+        "isTrackingActive": true,
+        "pageTypeOverride": "product",
+        "version": 1
+      },
+      "productTypesAvailabilityVersionHash": "JqocUbpLrtPx109uAIXorbdfzbCkQdD+ufTjY6P4R2s=",
+      "productTypesPagesVersionHash": "oi/OdUwAertOgMTxU6nRP4gEiIG8rH66Qq6toZMYh8I=",
+      "publishedDate": "2023-06-21T16:06:14Z",
+      "routeSegment": "product",
+      "seoUrlDto": {
+        "alternate": [],
+        "canonical": {
+          "culture": "it-it",
+          "url": "https://markets.vontobel.com/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera/DE000VK6PMC6"
+        }
+      },
+      "sharedContent": {
+        "underlyingLegalDisclaimer": "Il prezzo del sottostante indicato serve esclusivamente come indicazione e potrebbe non corrispondere esattamente al prezzo utilizzato per il calcolo dell'Importo di Liquidazione o per qualsiasi altra Soglia (ad esempio in caso di evento Knock-Out).  I prezzi specificati all'interno della documentazione legale sono gli unici rilevanti."
+      },
+      "updatedDate": "2023-06-21T16:06:14Z",
+      "url": "/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera/"
+    },
+    "pathname": "/prodotti/investment/multi-cash-collect-certificate-con-barriera/DE000VK6PMC6",
+    "sessionCtx": {
+      "culture": "it-it"
+    },
+    "stickyHeader": true
+  }
+]
+```

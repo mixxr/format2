@@ -11,6 +11,10 @@ pub struct Args {
     #[arg(short, long)]
     pub input_dir: String,
 
+    /// Skip length to read (input files)
+    #[arg(short = 's', long, default_value = "1000")]
+    pub skip_first: String,
+
     /// Max length to read (input files)
     #[arg(short = 'l', long, default_value = "5000")]
     pub max_len: String,
