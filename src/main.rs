@@ -77,26 +77,6 @@ fn read_kv_file(path: &str) -> io::Result<std::collections::HashMap<String, Stri
 }
 
 fn extract_value(file_path: &str,content_str: &str, pattern: &str) -> String {
-    //Print the contents
-    // log::info!("{} {}", &content_str[..50], pattern);
-    /*
-    let start_key = contents.find("POWER_SUPPLY_CAPACITY").unwrap();
-contents = contents[start_key..];
-let start_value = contents.find(|c| c.is_digit(10)).unwrap(); // is_digit is a method on characters.
-contents = contents[start_value..];
-let end_value = contents.find(|c| !c.is_digit(10)).unwrap();
-contents = contents[..end_value];
-*/
-    /*
-    contents.lines()
-    .find(|s| s.contains("POWER_SUPPLY_CAPACITY"))
-    .nth(0 as usize)
-    .unwrap()
-    .split("=")
-    .nth(1 as usize)
-    .unwrap()
-    .parse::<i32>()
-    */
     match pattern {
         p if p.starts_with("Path") => extract_value_from_path(file_path, pattern.split('.').nth(1).unwrap_or("0").parse::<usize>().unwrap()),
         _ => extract_value_from_regex(content_str, pattern),
@@ -105,13 +85,9 @@ contents = contents[..end_value];
 
 fn extract_value_from_regex(content_str: &str, pattern: &str) -> String {
     let rx = regex::Regex::new(&pattern).unwrap();
-    log::debug!("Regex pattern: {:?}", rx);
     let Some(caps) = rx.captures(&content_str) else { return "".to_string()};
     log::debug!("Regex pattern: {}, Captures: {:?}, Caps len: {}", pattern, caps, caps.len());
     caps[1].to_string()
-    // let rx_bid = regex::Regex::new(r"\*\*([0-9]+\.[0-9]+)\*\*LETTERA").unwrap();
-    // let Some(caps_bid) = rx_bid.captures(&content_str) else { return };
-    // log::info!("bid {}, {}", &caps_bid[1], caps_bid.len())
 }
 
 fn extract_value_from_path(filepath: &str, position: usize) -> String {
@@ -221,8 +197,20 @@ fn main() -> std::process::ExitCode {
     match read_kv_file(&args.config) {
         Ok(map) => {
             log::debug!("Fields to extract: {} ", map.len());
-            let skip_first = args.skip_first.parse::<usize>().unwrap_or(1000);
-            let max_len = args.max_len.parse::<usize>().unwrap_or(5000);
+             let mut skip_first = 0; // default value
+            let mut max_len = 5000; // default value
+            // read skip and len parameters from config file, if not present use default values
+            // config file is named <issuer>.cfg.txt and contains key-value pairs
+            let extra_cfg_filepath = args.config.replace(".rx.txt", ".cfg.txt");
+            match read_kv_file(&extra_cfg_filepath) {
+                Ok(extra_map) => {
+                    skip_first = extra_map.get("skip").and_then(|v| v.parse::<usize>().ok()).unwrap_or(skip_first);
+                    max_len = extra_map.get("len").and_then(|v| v.parse::<usize>().ok()).unwrap_or(max_len);
+                    log::debug!("Extra config: skip_first={}, max_len={}", skip_first, max_len);
+                }
+                Err(_e) => log::warn!("No extra config file {}: {skip_first}, {max_len}", extra_cfg_filepath),
+            }
+           
             // for each file in the input dir, extract the fields and print them
             for entry in std::fs::read_dir(&args.input_dir).unwrap() {
                 let entry = entry.unwrap();
