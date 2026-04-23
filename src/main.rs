@@ -79,6 +79,8 @@ fn read_kv_file(path: &str) -> io::Result<std::collections::HashMap<String, Stri
 fn extract_value(file_path: &str,content_str: &str, pattern: &str) -> String {
     match pattern {
         p if p.starts_with("Path") => extract_value_from_path(file_path, pattern.split('.').nth(1).unwrap_or("0").parse::<usize>().unwrap()),
+        // XPath is in format XPath.elementN.element2.element1, extract_value_from_xpath needs content_str and pattern starting from the first "."
+        // p if p.starts_with("XPath") => extract_value_from_xpath(content_str, pattern.split('.').skip(1).collect()),
         _ => extract_value_from_regex(content_str, pattern),
     }
 }
@@ -91,7 +93,7 @@ fn extract_value_from_regex(content_str: &str, pattern: &str) -> String {
 }
 
 fn extract_value_from_path(filepath: &str, position: usize) -> String {
-    // file_path: "data/input/2026-01-01/IT000002"
+    // file_path: "data/issuer/2026-01-01/IT000002"
     // position: 0 => ISIN, 1 => dt
     
     let parts: Vec<&str> = filepath.split(std::path::MAIN_SEPARATOR).collect();
@@ -107,6 +109,23 @@ fn extract_value_from_path(filepath: &str, position: usize) -> String {
     }
     value
 }
+
+// fn extract_value_from_xpath(content_str: &str, elements: Vec<&str>) -> String {
+//     // content_str: "{..."elementN": { ..., "element2": { ..., "element1": "value" } } }"
+//     // elements: ["elementN", ..., "element2", "element1"]
+
+//     let mut current = content_str.to_string();
+//     for element in elements {
+//         let rx = regex::Regex::new(&format!(r#""{}":\s*"(.*?)""#, element)).unwrap();
+//         if let Some(caps) = rx.captures(&current) {
+//             current = caps[1].to_string();
+//             print!("regex {} => {}, ", element, current);
+//         } else {
+//             return "".to_string();
+//         }
+//     }
+//     current
+// }
 
 fn read_file_content(path: &str, max_len: usize, seek_first: usize) -> String {
     let f = File::open(path).expect("Can't find file!");
