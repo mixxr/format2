@@ -1,5 +1,5 @@
-bid="bid":.{50,150},"initialValue":([0-9]+\.[0-9]+)
-ask="ask":.{50,150},"initialValue":([0-9]+\.[0-9]+)
+bid=\\"bid\\":.{50,210},\\"initialValue\\":([0-9]+\.[0-9]+)
+ask=\\"ask\\":.{50,210},\\"initialValue\\":([0-9]+\.[0-9]+)
 isin=Path.0
 dt=Path.1
 issuer=Path.2
