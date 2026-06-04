@@ -87,8 +87,9 @@ fn extract_value(file_path: &str,content_str: &str, pattern: &str) -> String {
 
 fn extract_value_from_regex(content_str: &str, pattern: &str) -> String {
     let rx = regex::Regex::new(&pattern).unwrap();
+    println!("String contains 'ask': {}, 'bid': {}, pattern: {}", content_str.contains("ask"), content_str.contains("bid"), pattern);
     let Some(caps) = rx.captures(&content_str) else { return "".to_string()};
-    log::debug!("Regex pattern: {}, Captures: {:?}, Caps len: {}", pattern, caps, caps.len());
+    log::debug!("Extracting from Regex: {}, Captures: {:?}, Caps len: {}", pattern, caps, caps.len());
     caps[1].to_string()
 }
 
@@ -97,6 +98,7 @@ fn extract_value_from_path(filepath: &str, position: usize) -> String {
     // position: 0 => ISIN, 1 => dt
     
     let parts: Vec<&str> = filepath.split(std::path::MAIN_SEPARATOR).collect();
+    log::debug!("Extracting from Path: {}, position: {}, parts: {:?}", filepath, position, parts);
     if position >= parts.len() {
         return "".to_string();
     }
@@ -110,22 +112,6 @@ fn extract_value_from_path(filepath: &str, position: usize) -> String {
     value
 }
 
-// fn extract_value_from_xpath(content_str: &str, elements: Vec<&str>) -> String {
-//     // content_str: "{..."elementN": { ..., "element2": { ..., "element1": "value" } } }"
-//     // elements: ["elementN", ..., "element2", "element1"]
-
-//     let mut current = content_str.to_string();
-//     for element in elements {
-//         let rx = regex::Regex::new(&format!(r#""{}":\s*"(.*?)""#, element)).unwrap();
-//         if let Some(caps) = rx.captures(&current) {
-//             current = caps[1].to_string();
-//             print!("regex {} => {}, ", element, current);
-//         } else {
-//             return "".to_string();
-//         }
-//     }
-//     current
-// }
 
 fn read_file_content(path: &str, max_len: usize, seek_first: usize) -> String {
     let f = File::open(path).expect("Can't find file!");
@@ -140,7 +126,9 @@ fn read_file_content(path: &str, max_len: usize, seek_first: usize) -> String {
 
     // Trim unused bytes and convert to string (if UTF-8)
     let contents = String::from_utf8_lossy(&buffer[..bytes_read]);
-    contents.to_string()
+    let cstr = contents.to_string();
+    log::debug!("Read {} bytes from file {} ask: {}, bid: {}", bytes_read, path, cstr.contains(r#""ask""#), cstr.contains(r#""bid""#));
+    cstr
 }
 
 // fn extract_certificates() -> Vec<Certificate> {
@@ -158,16 +146,7 @@ fn read_file_content(path: &str, max_len: usize, seek_first: usize) -> String {
 //     cs
 // }
 
-// fn extract_quote(isin: &str, dt: &str, content_str: &str, map: &std::collections::HashMap<String, String>) -> Quote {
-//     let c = Quote {
-//         isin: String::from(isin),
-//         obs_dt: String::from(dt),
-//         ask: extract_value(content_str, &map["ASK"]).parse::<f32>().unwrap_or(0.0),
-//         bid: extract_value(content_str, &map["BID"]).parse::<f32>().unwrap_or(0.0),
-//         currency: String::from("EUR"), // TO DO: via regex
-//     };
-//     c
-// }
+
 
 /*
 regex2 --config <issuer>.rx.txt --input-dir output\<dt> --output-format [json|sql|csv] --output-dir <path>
