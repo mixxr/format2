@@ -1,8 +1,8 @@
 [Multi Cash Collect con Barriera](https://markets.vontobel.com/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera)
 
-### D-Wave Quantum Inc., IonQ Inc., Rigetti Computing Inc.
+### ENI SpA, Intesa Sanpaolo SpA, Nexi SpA, STMicroelectronics NV
 
-Cedola potenziale p.a.: 46,00% Autocallable Memoria Step-Down Scadenza: 23/10/2028 Quanto Quanto Osservazione della Barriera a Scadenza Osservazione della Barriera a Scadenza ISIN DE000VH68M19 Simbolo F79729
+Cedola potenziale p.a.: 13,44% Autocallable Memoria Scadenza: 11/06/2027 Osservazione della Barriera a Scadenza Osservazione della Barriera a Scadenza ISIN DE000VK6PMC6 Simbolo F71690
 
 ##
 
@@ -11,6 +11,9 @@ EUR Vendi Volume Denaro
 ##
 
 EUR Compra Volume Lettera
+
+Spread
+
 
 ### Panoramica del prodotto
 
@@ -21,7 +24,7 @@ Scopri di più
 
 Importo Bonus per intervallo
 
-3,83 EUR
+11,20 EUR
 
 Frequenza cedolare (in mesi)
 
@@ -29,112 +32,126 @@ Frequenza cedolare (in mesi)
 
 Prossimo Pagamento dell'Importo Bonus
 
-3,83 EUR (30/06/2026)
+11,20 EUR (18/06/2026)
 
 Prossima Ex-Date
 
-25/06/2026
+15/06/2026
 
-D-Wave Quantum Inc.
-
-Soglia Bonus
-
-26,27 USD (23/06/2026)
-
-Livello Autocall
-
-28,25 USD (23/07/2026)
-
-Prezzo di Riferimento Iniziale
-
-28,25 USD
-
-Strike
-
-28,25 USD
-
-Barriera
-
-11,30 USD (40,00%)
-
-Distanza da Barriera
-
-59,39%
-
-Multiplo
-
-3,53982
-
-IonQ Inc.
+ENI SpA
 
 Soglia Bonus
 
-51,44 USD (23/06/2026)
+8,168 EUR (11/06/2026)
 
 Livello Autocall
 
-55,31 USD (23/07/2026)
-
-Prezzo di Riferimento Iniziale
-
-55,31 USD
+12,389 EUR (11/06/2026)
 
 Strike
 
-55,31 USD
+13,614 EUR
 
 Barriera
 
-22,12 USD (40,00%)
+8,168 EUR (60,00%)
 
 Distanza da Barriera
 
-67,83%
+64,94%
 
 Multiplo
 
-1,80799
+73,4538
 
-Rigetti Computing Inc. Worst-Of
+Intesa Sanpaolo SpA
 
 Soglia Bonus
 
-33,94 USD (23/06/2026)
+2,9438 EUR (11/06/2026)
 
 Livello Autocall
 
-36,49 USD (23/07/2026)
-
-Prezzo di Riferimento Iniziale
-
-36,49 USD
+4,4647 EUR (11/06/2026)
 
 Strike
 
-36,49 USD
+4,9063 EUR
 
 Barriera
 
-14,60 USD (40,00%)
+2,9438 EUR (60,00%)
 
 Distanza da Barriera
 
-39,56%
+48,09%
 
 Multiplo
 
-2,74048
+203,81958
+
+Nexi SpA Worst-Of
+
+Soglia Bonus
+
+3,118 EUR (11/06/2026)
+
+Livello Autocall
+
+4,728 EUR (11/06/2026)
+
+Strike
+
+5,196 EUR
+
+Barriera
+
+3,118 EUR (60,00%)
+
+Distanza da Barriera
+
+8,32%
+
+Multiplo
+
+192,45574
+
+STMicroelectronics NV
+
+Soglia Bonus
+
+15,81 EUR (11/06/2026)
+
+Livello Autocall
+
+23,979 EUR (11/06/2026)
+
+Strike
+
+26,35 EUR
+
+Barriera
+
+15,81 EUR (60,00%)
+
+Distanza da Barriera
+
+76,15%
+
+Multiplo
+
+37,95066
 
 
 ### Ciclo di vita
 
 
-- 22/10/2025Fixing Iniziale
-- 24/10/2025Primo Giorno di Negoziazione
+- 11/06/2025Fixing Iniziale
+- 13/06/2025Primo Giorno di Negoziazione
 - 04/06/2026Oggi
-- 18/10/2028Ultimo Giorno di Negoziazione
-- 23/10/2028Data di Scadenza
-- 30/10/2028Data di Liquidazione
+- 08/06/2027Ultimo Giorno di Negoziazione
+- 11/06/2027Data di Scadenza
+- 18/06/2027Data di Liquidazione
 
 
 ### Informazioni sul Prodotto
@@ -1724,14 +1741,14 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
       "data": {
         "associationCode": "svsp",
         "associationName": "Barrier Reverse Convertible con cedola condizionato",
-        "barrier": 11.3,
-        "barrierDistance": 0.3909,
+        "barrier": 8.168,
+        "barrierDistance": 0.0928,
         "barrierObservation": 11,
         "couponFrequency": 4,
-        "couponPerAnnum": 0.46,
+        "couponPerAnnum": 0.1344,
         "currency": "EUR",
         "dayCount": "30/360",
-        "denomination": 100,
+        "denomination": 1000,
         "direction": 1,
         "guarantor": "Vontobel Holding AG, Zurigo",
         "hasIndexFamilyDescription": false,
@@ -1743,22 +1760,22 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
         "isCosi": false,
         "isCosiOrTcm": false,
         "isEndOfLifeComplete": false,
-        "isQuanto": true,
+        "isQuanto": false,
         "isTradeRepublic": false,
         "isTripartyCollateralised": false,
-        "isin": "DE000VH68M19",
-        "issuePrice": 100,
-        "issueVolume": 100000,
+        "isin": "DE000VK6PMC6",
+        "issuePrice": 1000,
+        "issueVolume": 10000,
         "issuer": "Vontobel Financial Products GmbH, Frankfurt am Main",
         "maxReturn": 0,
         "maxReturnPa": 0,
-        "name": "D-Wave Quantum Inc., IonQ Inc., Rigetti Computing Inc.",
+        "name": "ENI SpA, Intesa Sanpaolo SpA, Nexi SpA, STMicroelectronics NV",
         "optionExerciseType": 1,
         "premium": 0,
-        "premiumFractionRate": 1.3788,
+        "premiumFractionRate": 0.2688,
         "productType": 30,
         "quotingType": 3,
-        "ratio": 3.53982,
+        "ratio": 73.4538,
         "relevantProperties": [
           0,
           2,
@@ -1774,13 +1791,13 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
           6
         ],
         "settlementType": 3,
-        "shortName": "D-Wave Quantum, IonQ, Rigetti Computing",
-        "sri": 7,
-        "strikePrice": 28.25,
-        "symbol": "F79729",
-        "underlyingCurrency": "USD",
-        "valor": "145601565",
-        "wkn": "VH68M1"
+        "shortName": "ENI, Intesa Sanpaolo, Nexi, STMicroelectronics",
+        "sri": 6,
+        "strikePrice": 13.614,
+        "symbol": "F71690",
+        "underlyingCurrency": "EUR",
+        "valor": "142431533",
+        "wkn": "VK6PMC"
       },
       "disclaimers": [],
       "features": [
@@ -1788,20 +1805,20 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
         2,
         5,
         3,
+        4,
         0
       ],
       "icons": [
-        1,
         11
       ],
       "identifiers": [
         {
           "type": 0,
-          "value": "DE000VH68M19"
+          "value": "DE000VK6PMC6"
         },
         {
           "type": 3,
-          "value": "F79729"
+          "value": "F71690"
         }
       ],
       "keyFigures": [
@@ -1810,7 +1827,7 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
           "type": 3,
           "value": {
             "currency": "EUR",
-            "price": 3.83
+            "price": 11.2
           }
         },
         {
@@ -1833,14 +1850,14 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                   "type": 3,
                   "value": {
                     "currency": "EUR",
-                    "price": 3.83
+                    "price": 11.2
                   }
                 },
                 "second": {
                   "name": 70,
                   "type": 11,
                   "value": {
-                    "value": "2026-06-30T00:00:00"
+                    "value": "2026-06-18T00:00:00"
                   }
                 }
               }
@@ -1851,19 +1868,19 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
           "name": 68,
           "type": 11,
           "value": {
-            "value": "2026-06-25T00:00:00"
+            "value": "2026-06-15T00:00:00"
           }
         }
       ],
       "lifeCycle": [
         {
           "isToday": false,
-          "occurrence": "2025-10-22T16:44:00",
+          "occurrence": "2025-06-11T10:27:00",
           "type": 2
         },
         {
           "isToday": false,
-          "occurrence": "2025-10-24T00:00:00",
+          "occurrence": "2025-06-13T00:00:00",
           "type": 4
         },
         {
@@ -1873,17 +1890,17 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
         },
         {
           "isToday": false,
-          "occurrence": "2028-10-18T22:00:00",
+          "occurrence": "2027-06-08T22:00:00",
           "type": 6
         },
         {
           "isToday": false,
-          "occurrence": "2028-10-23T22:00:00",
+          "occurrence": "2027-06-11T17:30:00",
           "type": 7
         },
         {
           "isToday": false,
-          "occurrence": "2028-10-30T00:00:00",
+          "occurrence": "2027-06-18T00:00:00",
           "type": 8
         }
       ],
@@ -1897,23 +1914,25 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
         }
       ],
       "price": {
-        "bid": 85.8,
-        "bidSize": 1000,
+        "ask": 856,
+        "askSize": 250,
+        "bid": 846,
+        "bidSize": 250,
         "currency": "EUR",
         "isPercentPrice": false,
-        "latest": 85.8,
-        "latestTimestamp": "2026-06-04T15:00:16.025+00:00",
-        "performanceReference": 85.3,
+        "latest": 846,
+        "latestTimestamp": "2026-06-04T15:01:43.196+00:00",
+        "performanceReference": 845,
         "performanceReferenceTimestamp": "2026-06-03T00:00:00+00:00",
-        "previousClose": 85.3,
+        "previousClose": 845,
         "previousCloseTimestamp": "2026-06-03T00:00:00+00:00",
-        "valuation": 85.3
+        "valuation": 845
       },
       "priceFactor": 1,
       "primaryFeatures": [
         {
           "$type": "ProductFeatureCouponDto",
-          "coupon": 0.46,
+          "coupon": 0.1344,
           "type": 8
         },
         {
@@ -1927,18 +1946,14 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
           "type": 17
         },
         {
-          "$type": "ProductFeatureDto",
-          "type": 30
-        },
-        {
           "$type": "ProductFeatureFinalFixingDto",
-          "date": "2028-10-23T22:00:00",
+          "date": "2027-06-11T17:30:00",
           "type": 12
         }
       ],
       "primaryIdentifier": {
         "type": 0,
-        "value": "DE000VH68M19"
+        "value": "DE000VK6PMC6"
       },
       "secondaryFeatures": [],
       "tradingHours": {
@@ -1948,7 +1963,7 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
       },
       "underlyingKeyFigures": [
         {
-          "bloombergName": "QBTS UN Equity",
+          "bloombergName": "ENI IM Equity",
           "keyFigures": [
             {
               "name": 36,
@@ -1962,15 +1977,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                       "name": 36,
                       "type": 3,
                       "value": {
-                        "currency": "USD",
-                        "price": 26.27
+                        "currency": "EUR",
+                        "price": 8.168
                       }
                     },
                     "second": {
                       "name": 36,
                       "type": 11,
                       "value": {
-                        "value": "2026-06-23T00:00:00"
+                        "value": "2026-06-11T00:00:00"
                       }
                     }
                   }
@@ -1989,15 +2004,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                       "name": 35,
                       "type": 3,
                       "value": {
-                        "currency": "USD",
-                        "price": 28.25
+                        "currency": "EUR",
+                        "price": 12.389
                       }
                     },
                     "second": {
                       "name": 35,
                       "type": 11,
                       "value": {
-                        "value": "2026-07-23T00:00:00"
+                        "value": "2026-06-11T00:00:00"
                       }
                     }
                   }
@@ -2005,19 +2020,11 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
               }
             },
             {
-              "name": 44,
-              "type": 3,
-              "value": {
-                "currency": "USD",
-                "price": 28.25
-              }
-            },
-            {
               "name": 8,
               "type": 3,
               "value": {
-                "currency": "USD",
-                "price": 28.25
+                "currency": "EUR",
+                "price": 13.614
               }
             },
             {
@@ -2028,15 +2035,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                   "name": 58,
                   "type": 3,
                   "value": {
-                    "currency": "USD",
-                    "price": 11.3
+                    "currency": "EUR",
+                    "price": 8.168
                   }
                 },
                 "second": {
                   "name": 58,
                   "type": 0,
                   "value": {
-                    "percentage": 0.4
+                    "percentage": 0.6
                   }
                 }
               }
@@ -2045,24 +2052,24 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
               "name": 39,
               "type": 4,
               "value": {
-                "barrier": 11.3,
-                "identifier": "1838879196",
-                "price": 27.83
+                "barrier": 8.168,
+                "identifier": "791",
+                "price": 23.298
               }
             },
             {
               "name": 5,
               "type": 1,
               "value": {
-                "ratio": 3.53982
+                "ratio": 73.4538
               }
             }
           ],
-          "ulinsId": 1838879196,
-          "underlyingName": "D-Wave Quantum Inc."
+          "ulinsId": 791,
+          "underlyingName": "ENI SpA"
         },
         {
-          "bloombergName": "IONQ UN Equity",
+          "bloombergName": "ISP IM Equity",
           "keyFigures": [
             {
               "name": 36,
@@ -2076,15 +2083,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                       "name": 36,
                       "type": 3,
                       "value": {
-                        "currency": "USD",
-                        "price": 51.44
+                        "currency": "EUR",
+                        "price": 2.9438
                       }
                     },
                     "second": {
                       "name": 36,
                       "type": 11,
                       "value": {
-                        "value": "2026-06-23T00:00:00"
+                        "value": "2026-06-11T00:00:00"
                       }
                     }
                   }
@@ -2103,15 +2110,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                       "name": 35,
                       "type": 3,
                       "value": {
-                        "currency": "USD",
-                        "price": 55.31
+                        "currency": "EUR",
+                        "price": 4.4647
                       }
                     },
                     "second": {
                       "name": 35,
                       "type": 11,
                       "value": {
-                        "value": "2026-07-23T00:00:00"
+                        "value": "2026-06-11T00:00:00"
                       }
                     }
                   }
@@ -2119,19 +2126,11 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
               }
             },
             {
-              "name": 44,
-              "type": 3,
-              "value": {
-                "currency": "USD",
-                "price": 55.31
-              }
-            },
-            {
               "name": 8,
               "type": 3,
               "value": {
-                "currency": "USD",
-                "price": 55.31
+                "currency": "EUR",
+                "price": 4.9063
               }
             },
             {
@@ -2142,15 +2141,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                   "name": 58,
                   "type": 3,
                   "value": {
-                    "currency": "USD",
-                    "price": 22.12
+                    "currency": "EUR",
+                    "price": 2.9438
                   }
                 },
                 "second": {
                   "name": 58,
                   "type": 0,
                   "value": {
-                    "percentage": 0.4
+                    "percentage": 0.6
                   }
                 }
               }
@@ -2159,24 +2158,24 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
               "name": 39,
               "type": 4,
               "value": {
-                "barrier": 22.12,
-                "identifier": "1142976714",
-                "price": 68.77
+                "barrier": 2.9438,
+                "identifier": "1487",
+                "price": 5.671
               }
             },
             {
               "name": 5,
               "type": 1,
               "value": {
-                "ratio": 1.80799
+                "ratio": 203.81958
               }
             }
           ],
-          "ulinsId": 1142976714,
-          "underlyingName": "IonQ Inc."
+          "ulinsId": 1487,
+          "underlyingName": "Intesa Sanpaolo SpA"
         },
         {
-          "bloombergName": "RGTI UR Equity",
+          "bloombergName": "NEXI IM Equity",
           "keyFigures": [
             {
               "name": 36,
@@ -2190,15 +2189,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                       "name": 36,
                       "type": 3,
                       "value": {
-                        "currency": "USD",
-                        "price": 33.94
+                        "currency": "EUR",
+                        "price": 3.118
                       }
                     },
                     "second": {
                       "name": 36,
                       "type": 11,
                       "value": {
-                        "value": "2026-06-23T00:00:00"
+                        "value": "2026-06-11T00:00:00"
                       }
                     }
                   }
@@ -2217,15 +2216,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                       "name": 35,
                       "type": 3,
                       "value": {
-                        "currency": "USD",
-                        "price": 36.49
+                        "currency": "EUR",
+                        "price": 4.728
                       }
                     },
                     "second": {
                       "name": 35,
                       "type": 11,
                       "value": {
-                        "value": "2026-07-23T00:00:00"
+                        "value": "2026-06-11T00:00:00"
                       }
                     }
                   }
@@ -2233,19 +2232,11 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
               }
             },
             {
-              "name": 44,
-              "type": 3,
-              "value": {
-                "currency": "USD",
-                "price": 36.49
-              }
-            },
-            {
               "name": 8,
               "type": 3,
               "value": {
-                "currency": "USD",
-                "price": 36.49
+                "currency": "EUR",
+                "price": 5.196
               }
             },
             {
@@ -2256,15 +2247,15 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
                   "name": 58,
                   "type": 3,
                   "value": {
-                    "currency": "USD",
-                    "price": 14.6
+                    "currency": "EUR",
+                    "price": 3.118
                   }
                 },
                 "second": {
                   "name": 58,
                   "type": 0,
                   "value": {
-                    "percentage": 0.4
+                    "percentage": 0.6
                   }
                 }
               }
@@ -2273,50 +2264,282 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
               "name": 39,
               "type": 4,
               "value": {
-                "barrier": 14.6,
-                "identifier": "1555274702",
-                "price": 24.16
+                "barrier": 3.118,
+                "identifier": "627434226",
+                "price": 3.401
               }
             },
             {
               "name": 5,
               "type": 1,
               "value": {
-                "ratio": 2.74048
+                "ratio": 192.45574
               }
             }
           ],
-          "ulinsId": 1555274702,
-          "underlyingName": "Rigetti Computing Inc.",
+          "ulinsId": 627434226,
+          "underlyingName": "Nexi SpA",
           "worstOf": true
+        },
+        {
+          "bloombergName": "STMPA FP Equity",
+          "keyFigures": [
+            {
+              "name": 36,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 36,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 36,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 15.81
+                      }
+                    },
+                    "second": {
+                      "name": 36,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-06-11T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 35,
+              "type": 13,
+              "value": {
+                "keyFigure": {
+                  "name": 35,
+                  "type": 8,
+                  "value": {
+                    "first": {
+                      "name": 35,
+                      "type": 3,
+                      "value": {
+                        "currency": "EUR",
+                        "price": 23.979
+                      }
+                    },
+                    "second": {
+                      "name": 35,
+                      "type": 11,
+                      "value": {
+                        "value": "2026-06-11T00:00:00"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": 8,
+              "type": 3,
+              "value": {
+                "currency": "EUR",
+                "price": 26.35
+              }
+            },
+            {
+              "name": 58,
+              "type": 8,
+              "value": {
+                "first": {
+                  "name": 58,
+                  "type": 3,
+                  "value": {
+                    "currency": "EUR",
+                    "price": 15.81
+                  }
+                },
+                "second": {
+                  "name": 58,
+                  "type": 0,
+                  "value": {
+                    "percentage": 0.6
+                  }
+                }
+              }
+            },
+            {
+              "name": 39,
+              "type": 4,
+              "value": {
+                "barrier": 15.81,
+                "identifier": "1178",
+                "price": 66.31
+              }
+            },
+            {
+              "name": 5,
+              "type": 1,
+              "value": {
+                "ratio": 37.95066
+              }
+            }
+          ],
+          "ulinsId": 1178,
+          "underlyingName": "STMicroelectronics NV"
         }
       ],
       "underlyings": [
         {
-          "barrier": 11.3,
+          "barrier": 8.168,
           "cardProperties": [
             8,
             10
           ],
-          "currency": "USD",
+          "currency": "EUR",
           "isReferenceUnderlying": false,
-          "isin": "US26740W1099",
-          "name": "D-Wave Quantum Inc.",
+          "isin": "IT0003132476",
+          "name": "ENI SpA",
           "price": {
-            "currency": "USD",
-            "dailyHigh": 27.95,
-            "dailyLow": 26.55,
+            "currency": "EUR",
+            "dailyHigh": 23.478,
+            "dailyLow": 23.035,
             "isPercentPrice": false,
-            "latest": 27.83,
+            "latest": 23.298,
+            "latestTimestamp": "2026-06-04T15:02:07+00:00",
+            "performanceReference": 23.57,
+            "performanceReferenceTimestamp": "2026-06-03T15:29:58+00:00",
+            "previousClose": 23.57,
+            "previousCloseTimestamp": "2026-06-03T15:29:58+00:00",
+            "valuation": 23.57
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "791",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "ENI",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 791,
+          "vontobelIssued": false
+        },
+        {
+          "barrier": 2.9438,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "IT0000072618",
+          "name": "Intesa Sanpaolo SpA",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 5.702,
+            "dailyLow": 5.638,
+            "isPercentPrice": false,
+            "latest": 5.671,
+            "latestTimestamp": "2026-06-04T15:02:50+00:00",
+            "performanceReference": 5.663,
+            "performanceReferenceTimestamp": "2026-06-03T15:29:58+00:00",
+            "previousClose": 5.663,
+            "previousCloseTimestamp": "2026-06-03T15:29:58+00:00",
+            "valuation": 5.663
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "1487",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "ISP",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 1487,
+          "vontobelIssued": false
+        },
+        {
+          "barrier": 3.118,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "IT0005366767",
+          "name": "Nexi SpA",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 3.473,
+            "dailyLow": 3.383,
+            "isPercentPrice": false,
+            "latest": 3.401,
+            "latestTimestamp": "2026-06-04T15:01:55+00:00",
+            "performanceReference": 3.405,
+            "performanceReferenceTimestamp": "2026-06-03T15:29:44+00:00",
+            "previousClose": 3.405,
+            "previousCloseTimestamp": "2026-06-03T15:29:44+00:00",
+            "valuation": 3.405
+          },
+          "priceFactor": 1,
+          "priceIdentifier": "627434226",
+          "relevantProperties": [
+            9,
+            11,
+            14,
+            16,
+            17,
+            1,
+            0,
+            5
+          ],
+          "roundDigits": 3,
+          "symbol": "NEXI",
+          "type": 1,
+          "typeGroup": 1,
+          "ulinsId": 627434226,
+          "vontobelIssued": false
+        },
+        {
+          "barrier": 15.81,
+          "cardProperties": [
+            8,
+            10
+          ],
+          "currency": "EUR",
+          "isReferenceUnderlying": false,
+          "isin": "NL0000226223",
+          "name": "STMicroelectronics NV",
+          "price": {
+            "currency": "EUR",
+            "dailyHigh": 68.38,
+            "dailyLow": 64.08,
+            "isPercentPrice": false,
+            "latest": 66.31,
             "latestTimestamp": "2026-06-04T15:02:51+00:00",
-            "performanceReference": 27.53,
-            "performanceReferenceTimestamp": "2026-06-03T19:59:55+00:00",
-            "previousClose": 27.53,
-            "previousCloseTimestamp": "2026-06-03T19:59:55+00:00",
-            "valuation": 27.53
+            "performanceReference": 68.58,
+            "performanceReferenceTimestamp": "2026-06-03T15:29:58+00:00",
+            "previousClose": 68.58,
+            "previousCloseTimestamp": "2026-06-03T15:29:58+00:00",
+            "valuation": 68.58
           },
           "priceFactor": 1,
-          "priceIdentifier": "1838879196",
+          "priceIdentifier": "1178",
           "relevantProperties": [
             9,
             11,
@@ -2328,94 +2551,10 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
             5
           ],
           "roundDigits": 2,
-          "symbol": "QBTS",
+          "symbol": "STMPA",
           "type": 1,
           "typeGroup": 1,
-          "ulinsId": 1838879196,
-          "vontobelIssued": false
-        },
-        {
-          "barrier": 22.12,
-          "cardProperties": [
-            8,
-            10
-          ],
-          "currency": "USD",
-          "isReferenceUnderlying": false,
-          "isin": "US46222L1089",
-          "name": "IonQ Inc.",
-          "price": {
-            "currency": "USD",
-            "dailyHigh": 68.68,
-            "dailyLow": 65.79,
-            "isPercentPrice": false,
-            "latest": 68.77,
-            "latestTimestamp": "2026-06-04T15:01:56+00:00",
-            "performanceReference": 67.78,
-            "performanceReferenceTimestamp": "2026-06-03T19:59:59+00:00",
-            "previousClose": 67.78,
-            "previousCloseTimestamp": "2026-06-03T19:59:59+00:00",
-            "valuation": 67.78
-          },
-          "priceFactor": 1,
-          "priceIdentifier": "1142976714",
-          "relevantProperties": [
-            9,
-            11,
-            14,
-            16,
-            17,
-            1,
-            0,
-            5
-          ],
-          "roundDigits": 2,
-          "symbol": "IONQ",
-          "type": 1,
-          "typeGroup": 1,
-          "ulinsId": 1142976714,
-          "vontobelIssued": false
-        },
-        {
-          "barrier": 14.6,
-          "cardProperties": [
-            8,
-            10
-          ],
-          "currency": "USD",
-          "isReferenceUnderlying": false,
-          "isin": "US76655K1034",
-          "name": "Rigetti Computing Inc.",
-          "price": {
-            "currency": "USD",
-            "dailyHigh": 24.27,
-            "dailyLow": 22.95,
-            "isPercentPrice": false,
-            "latest": 24.16,
-            "latestTimestamp": "2026-06-04T15:02:30+00:00",
-            "performanceReference": 24.09,
-            "performanceReferenceTimestamp": "2026-06-03T19:59:54+00:00",
-            "previousClose": 24.09,
-            "previousCloseTimestamp": "2026-06-03T19:59:54+00:00",
-            "valuation": 24.09
-          },
-          "priceFactor": 1,
-          "priceIdentifier": "1555274702",
-          "relevantProperties": [
-            9,
-            11,
-            14,
-            16,
-            17,
-            1,
-            0,
-            5
-          ],
-          "roundDigits": 2,
-          "symbol": "RGTI",
-          "type": 1,
-          "typeGroup": 1,
-          "ulinsId": 1555274702,
+          "ulinsId": 1178,
           "vontobelIssued": false
         }
       ]
@@ -3297,7 +3436,7 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
     "fullWidthFooter": false,
     "hasBaseData": true,
     "layout": 1,
-    "nonce": "a35aca5e",
+    "nonce": "360c37a6",
     "pageData": {
       "baseContentVersionHash": "hV29bt5kXBfEcVHE1clC5f/kZ30HpPs70aFnLluMbiw=",
       "category": null,
@@ -3315,7 +3454,7 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
       "culture": "it-it",
       "disclaimerVersion": "it-3",
       "excludeFromSeo": false,
-      "isin": "DE000VH68M19",
+      "isin": "DE000VK6PMC6",
       "metaTitle": "Product | Vontobel Markets",
       "name": "Product",
       "pageId": 21427,
@@ -3332,7 +3471,7 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
         "alternate": [],
         "canonical": {
           "culture": "it-it",
-          "url": "https://markets.vontobel.com/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera/DE000VH68M19"
+          "url": "https://markets.vontobel.com/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera/DE000VK6PMC6"
         }
       },
       "sharedContent": {
@@ -3341,7 +3480,7 @@ I Certificati Cash Collect Express sono un tipo di prodotto finanziario struttur
       "updatedDate": "2023-06-21T16:06:14Z",
       "url": "/it-it/prodotti/investment/multi-cash-collect-certificate-con-barriera/"
     },
-    "pathname": "/prodotti/investment/multi-cash-collect-certificate-con-barriera/DE000VH68M19",
+    "pathname": "/prodotti/investment/multi-cash-collect-certificate-con-barriera/DE000VK6PMC6",
     "sessionCtx": {
       "culture": "it-it"
     },
