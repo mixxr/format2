@@ -87,7 +87,6 @@ fn extract_value(file_path: &str,content_str: &str, pattern: &str) -> String {
 
 fn extract_value_from_regex(content_str: &str, pattern: &str) -> String {
     let rx = regex::Regex::new(&pattern).unwrap();
-    println!("String contains 'ask': {}, 'bid': {}, pattern: {}", content_str.contains("ask"), content_str.contains("bid"), pattern);
     let Some(caps) = rx.captures(&content_str) else { return "".to_string()};
     log::debug!("Extracting from Regex: {}, Captures: {:?}, Caps len: {}", pattern, caps, caps.len());
     caps[1].to_string()
